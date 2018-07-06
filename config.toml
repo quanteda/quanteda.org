@@ -1,5 +1,53 @@
 #theme = "hugo-lithium"
 theme = "quanteda"
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+#baseURL = "https://quanteda.org/"
+baseURL = "http://127.0.0.1:7964"
+languageCode = "en-gb"
+title = "Quanteda Initiative"
+
+# Enable comments by entering your Disqus shortname
+disqusShortname = "quanteda"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-144616-23"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+# Define the number of posts per page
+paginate = 10
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url  = "/about/"
+    weight = 2
+
+[[menu.main]]
+    name = "Projects"
+    url  = "/about/"
+    identifier = "projects"
+    weight = 3
+    
+[[menu.main]]
+    name = "quanteda"
+    url  = "/about/"
+    parent = "projects"
+    weight = 1
+    
+[[menu.main]]
+    name = "readtext"
+    url  = "/readtext/"
+    parent = "projects"
+    weight = 1
+        
+[[menu.main]]
+    name = "News"
+    url  = "/news/"
+    weight = 4
+    

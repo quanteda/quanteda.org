@@ -1,0 +1,25 @@
+---
+title = "About"
+id = "about"
+---
+
+<div class="page-header">
+### Heading3
+</div>
+
+Some texts.
+
+#### Heading4
+
+```{r}
+plot(sample(1:100, 10))
+```
+
+```{r}
+library(knitr)
+library(kableExtra)
+dt <- mtcars[1:5, 1:6]
+kable(dt) %>%
+  kable_styling(bootstrap_options = c("striped", "hover"))
+
+```
