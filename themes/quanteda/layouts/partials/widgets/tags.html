@@ -3,7 +3,7 @@
   <ul class="tags">
    {{ range $name, $items := .Site.Taxonomies.tags }}
      <li>
-        <a href="{{ $.Site.BaseURL }}tags/{{ $name | urlize | lower }}">
+        <a href="/tags/{{ $name | urlize | lower }}">
              <i class="fa fa-tags"></i> {{ $name }}
         </a>
      </li>
