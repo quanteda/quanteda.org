@@ -1,6 +1,6 @@
 #theme = "hugo-lithium"
 theme = "quanteda"
-baseURL = "https://quanteda.org/"
+baseURL = "https://hungry-bhabha-927db5.netlify.com"
 #baseURL = "http://127.0.0.1:7964"
 languageCode = "en-gb"
 title = "Quanteda Initiative"
