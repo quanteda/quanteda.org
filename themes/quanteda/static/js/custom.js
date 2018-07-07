@@ -128,7 +128,8 @@ jQuery(document).ready(function($) {
   });
 
   $('#images').refineSlide({
-    transition: 'slideH',
+    //transition: 'slideH',
+    transition: 'fade',
     autoPlay: true,
     useThumbs: false
 

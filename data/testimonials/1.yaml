@@ -1,0 +1,7 @@
+text: > 
+  The **quanteda** package has become the starting point for all my text analysis projects in R. 
+  This is due to its superb ability to prepare the data for analysis regardless of the method one might prefer. 
+  When the data is prepared, **quanteda**'s convert function makes it easy to transfer the data to a wide range of other packages such as topicmodels or lsa.
+name: "Bob Muenchen"
+position: "University of Tennessee"
+avatar: "img/testimonials/bob.jpg"
