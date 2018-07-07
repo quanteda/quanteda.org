@@ -230,13 +230,16 @@ nav select.selectmenu, select.selectmenu  {
 /* main content */
 
 #maincontent {
-	z-index:1000;
-	margin-top:0px;
-	padding:20px 0 0 0;
+	z-index: 1000;
+	margin-top: 0px;
+	padding: 20px 0 30px 0;
 }
 
-#maincontent .page-header h3 {
+#maincontent h3 {
 	font-weight:700;
+	padding-bottom: 20px;
+    margin: 20px 0 30px;
+    border-bottom: 1px solid #eeeeee;
 }
 /* intro */
 
@@ -1842,6 +1845,10 @@ footer .footerlogo h6 a {
 	font-weight:700;
 }
 
+footer .footerlogo img {
+    margin-bottom: 10px;
+}
+
 footer .footerlogo h6 a:hover {
 	text-decoration:none;
 	color:#ddd;
@@ -2060,7 +2067,7 @@ section > ul li {
 
 /* position */
 .centered {
-	text-align:center;
+	text-align: center;
 }
 
 .alignleft{

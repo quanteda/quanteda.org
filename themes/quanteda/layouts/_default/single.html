@@ -1,25 +1,64 @@
 {{ partial "header.html" . }}
 
-<main class="content" role="main">
-
-  <article class="article">
-    {{ if eq .Section "post" }}
-    <span class="article-duration">{{ .ReadingTime }} min read</span>
-    {{ end }}
-
-    <h1 class="article-title">{{ .Title }}</h1>
-
-    {{ if eq .Section "post" }}
-    <span class="article-date">{{ .Date.Format "2006/01/02" }}</span>
-    {{ end }}
-
-    <div class="article-content">
-      {{ .Content }}
+<section id="subintro">
+    <div class="container">
+      <div class="row">
+        <div class="span4">
+            <h3>News</h3>
+        </div>
+        <div class="span8">
+        <ul class="breadcrumb notop">
+            <li><a href="/">Home</a><span class="divider">/</span></li>
+            <li><a href="/news/">News</a><span class="divider">/</span></li>
+            <li class="active">{{ .Title }}</li>
+         </ul>
+        </div>
+      </div>
     </div>
-  </article>
+</section>
+<section id="maincontent">
+    <div class="container">
+      <div class="row">
+        <div class="span4">
+          <aside>
+           {{ partial "sidebar.html" . }}
+          </aside>
+        </div>
+        <div class="span8">
+          <!-- start article full post -->
+          <article class="blog-post">
+            <div class="post-heading">
+              <h3><a href="#">{{ .Title }}</a></h3>
+            </div>
+            <div class="clearfix">
+            </div>
+            <img src="assets/img/dummies/blog1.jpg" alt="" />
 
-  {{ partial "disqus.html" .}}
+            <div class="row">
+              <div class="span2">
+                <div class="post-icon">
+                  <i class="icon-bg-dark icon-circled icon-file icon-3x active"></i>
+                </div>
+                <ul class="post-meta">
+                  <li class="first"><i class="icon-calendar"></i>
+                    <span>{{ .Date.Format "2006/01/02" }}</span>
+                  </li>
+                  <li class="last"><i class="icon-tags"></i>
+                    <span>
+                        <a href="#">Design</a>, <a href="#">Blog</a>, <a href="#">Tutorial</a>
+                    </span>
+                  </li>
+                </ul>
+                <div class="clearfix">
+                </div>
+              </div>
 
-</main>
-
+              <div class="span6">
+                {{ .Content }}
+              </div>
+            </div>
+          </article>
+          {{ partial "disqus.html" .}}
+    </div>
+</section>
 {{ partial "footer.html" . }}

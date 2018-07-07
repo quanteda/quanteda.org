@@ -3,9 +3,7 @@ title = "About"
 id = "about"
 +++
 
-<div class="page-header">
 ### Heading 3
-</div>
 
 Some texts.
 

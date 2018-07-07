@@ -6,17 +6,45 @@
     <description>Recent content on Quanteda Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2018 16:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Text analysis workshop at WZB Berlin</title>
+      <link>/news/workshop-at-wzb-2018/</link>
+      <pubDate>Sun, 28 Jan 2018 16:00:00 +0000</pubDate>
+      
+      <guid>/news/workshop-at-wzb-2018/</guid>
+      <description>Workshop at WZB Berlin We will convene a quanteda workshop at the WZB Berlin Social Science Center on January 31, 2018. For the event we have developed a new tutorial website that contains a step-by-step introduction to quantitative text analysis using quanteda.</description>
+    </item>
+    
+    <item>
+      <title>Quanteda v1.0 launch at LondonR event</title>
+      <link>/news/london-r-2018/</link>
+      <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
+      
+      <guid>/news/london-r-2018/</guid>
+      <description>Quanteda v1.0 launch at London R At a meeting of London R meeting on 16 January 2016, we announced the release of quanteda v1.0. See the presentation here. We thank all the participants and organizers for the great opportunity and the excellent turnout.
+A video of the presentation is available on the YouTube channel of the Quanteda Initiative.</description>
+    </item>
+    
+    <item>
+      <title>Text analysis workshop at ESSSC</title>
+      <link>/news/workshop-at-esssc-2017/</link>
+      <pubDate>Wed, 18 Oct 2017 16:00:00 +0000</pubDate>
+      
+      <guid>/news/workshop-at-esssc-2017/</guid>
+      <description>Workshop at ESSSC We will convene a half-day workshop at European Symposium Series on Societal Challenges in Computational Social Science on quantitative text analysis using quanteda.</description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>/news/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/news/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -28,7 +56,7 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>### Heading 3  Some texts.
+      <description>Heading 3 Some texts.
 Heading 4    mpg  cyl  disp  hp  drat  wt      Mazda RX4  21.0  6  160  110  3.90  2.620    Mazda RX4 Wag  21.0  6  160  110  3.90  2.875    Datsun 710  22.8  4  108  93  3.</description>
     </item>
     

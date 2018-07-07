@@ -1,7 +1,7 @@
 #theme = "hugo-lithium"
 theme = "quanteda"
-#baseURL = "https://quanteda.org/"
-baseURL = "http://127.0.0.1:7964"
+baseURL = "https://quanteda.org/"
+#baseURL = "http://127.0.0.1:7964"
 languageCode = "en-gb"
 title = "Quanteda Initiative"
 

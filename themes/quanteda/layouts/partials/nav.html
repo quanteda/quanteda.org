@@ -7,10 +7,10 @@
           <!-- logo -->
           <div class="logo">
           {{ if eq .URL "/" }}
-            <img src="img/logo-white.svg" alt="Quanteda Initiative" />
+            <img src="{{ "img/logo-white.svg" | relURL }}" alt="Quanteda Initiative" />
           {{ else }}
             <a href="/">
-                <img src="img/logo-white.svg" alt="Quanteda Initiative" />
+                <img src="{{ "img/logo-white.svg" | relURL }}" alt="Quanteda Initiative" />
             </a>
           {{ end }}
           </div>
