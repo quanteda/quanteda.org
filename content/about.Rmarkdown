@@ -10,4 +10,4 @@ Based in London, the Quanteda Initiative is a UK non-profit organization devoted
 
 **quanteda** project is supported by the European Research Council grant ERC-2011-StG 283794-QUANTESS.
 
-<img alt="European Research Council" src="/img/erc.png" style="width:15%;">
+<img alt="European Research Council" src="/img/erc.png" style="width:150px;">
