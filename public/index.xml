@@ -60,5 +60,25 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
 Heading 4    mpg  cyl  disp  hp  drat  wt      Mazda RX4  21.0  6  160  110  3.90  2.620    Mazda RX4 Wag  21.0  6  160  110  3.90  2.875    Datsun 710  22.8  4  108  93  3.</description>
     </item>
     
+    <item>
+      <title>quanteda</title>
+      <link>/quanteda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/quanteda/</guid>
+      <description> Heading 3 Some texts.
+Heading 4 </description>
+    </item>
+    
+    <item>
+      <title>readtext</title>
+      <link>/readtext/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/readtext/</guid>
+      <description> Heading 3 Some texts.
+Heading 4 </description>
+    </item>
+    
   </channel>
 </rss>
