@@ -56,8 +56,19 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Heading 3 Some texts.
-Heading 4    mpg  cyl  disp  hp  drat  wt      Mazda RX4  21.0  6  160  110  3.90  2.620    Mazda RX4 Wag  21.0  6  160  110  3.90  2.875    Datsun 710  22.8  4  108  93  3.</description>
+      <description>Quanteda Initiative quanteda and its accompanying packages are developed by contributors through the Quanteda Initiative, a UK-based community interest company (11135166) founded by Kenneth Benoit, to promote quantitative text analysis in social sciences and humanities. Please contact Kenneth Benoit for any queries on the organization.
+Supporters quanteda project is supported by the European Research Council grant ERC-2011-StG 283794-QUANTESS.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Quanteda Objectives We develop quanteda to achieve following core objectives in quantitative text analysis.
+ Simplicity and flexibility  Create flexible tools for different analytic purposes Provide consistent and intuitive commands for R users  Best practice  Facilitate transparent and reproducible workflows  High efficiency  Exploit multi-core CPU&amp;rsquo;s to process large datasets Store large datasets in small RAMs of laptop computers
+  Inter-operability  Allow quanteda to be used in conjunction with other R packages   Main contributors  Kenneth Benoit Kohei Watanabe Paul Nulty Adam Obeng Haiyan Wang Stefan Müller Ben Lauderdale Will Lowe  See Github Insights for other contributors.</description>
     </item>
     
     <item>
