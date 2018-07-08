@@ -4,7 +4,7 @@
     {{ range $name, $items := .Site.Taxonomies.categories }}
     <li>
         <a href="/categories/{{ $name | urlize | lower }}">
-            {{ $name }} ({{ len $items }})
+            {{ $name | title }} ({{ len $items }})
         </a>
     </li>
     {{ end }}

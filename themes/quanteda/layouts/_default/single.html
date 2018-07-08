@@ -37,15 +37,19 @@
             <div class="row">
               <div class="span2">
                 <div class="post-icon">
-                  <i class="icon-bg-dark icon-circled icon-file icon-3x active"></i>
+                  <i class="icon-bg-dark icon-circled icon-file icon-2x active"></i>
                 </div>
                 <ul class="post-meta">
-                  <li class="first"><i class="icon-calendar"></i>
+                  <li class="first">
+                    <i class="icon-calendar"></i>
                     <span>{{ .Date.Format "2006/01/02" }}</span>
                   </li>
-                  <li class="last"><i class="icon-tags"></i>
+                  <li class="last">
+                    <i class="icon-tags"></i>
                     <span>
-                        <a href="#">Design</a>, <a href="#">Blog</a>, <a href="#">Tutorial</a>
+                      {{ range .Params.tags }}
+                      <a href="/tags/{{ . | urlize }}">{{ . | title }}</a>
+                      {{ end }}
                     </span>
                   </li>
                 </ul>
