@@ -287,11 +287,6 @@ section#subintro {
 	overflow: hidden;
 }
 
-.features_content h3 {
-	letter-spacing: -2px;
-	font-weight: 700;
-}
-
 .features .icon i {
 	position: absolute;
 	top: 0px;
