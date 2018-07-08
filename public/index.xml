@@ -56,8 +56,7 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Quanteda Initiative quanteda and its accompanying packages are developed by contributors through the Quanteda Initiative, a UK-based community interest company (11135166) founded by Kenneth Benoit, to promote quantitative text analysis in social sciences and humanities. Please contact Kenneth Benoit for any queries on the organization.
-Supporters quanteda project is supported by the European Research Council grant ERC-2011-StG 283794-QUANTESS.</description>
+      <description>Quanteda Initiative Based in London, the Quanteda Initiative is a UK non-profit organization devoted to the promotion of open-source text analysis software. It supports active development of these tools, in addition to providing training materials, training events, and sponsoring workshops and conferences. It’s main product is the open-source quanteda package for R, but also supports a family of independent but interrelated packages for providing additional functionality for natural language processing and document management.</description>
     </item>
     
     <item>
