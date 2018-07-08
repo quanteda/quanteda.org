@@ -46,26 +46,26 @@ img.left {
 	overflow:hidden;
 }
 
+.well h4 {
+  margin: 10px 0 10px 0;
+}
 
 .well.well-primary {
 	background: #009cea;
-	color:#fff;
+	color: #fff;
 }
 .well.well-success {
 	background: #7cbb00;
-	color:#fff;
+	color: #fff;
 }
 .well.well-warning {
 	background: #bcab37;
-	color:#fff;
+	color: #fff;
 }
 .well.well-danger {
 	background: #ec4f13;
-	color:#fff;
+	color: #fff;
 }
-
-
-
 
 /* home */
 #intro h2 {
@@ -74,15 +74,13 @@ img.left {
   letter-spacing: -2px;
 }
 
-
-
 /* logo */
 .logo a,.logo a:hover {
-	color:#fff;
-	text-decoration:none;
+	color: #fff;
+	text-decoration: none;
 }
 .logo h1 {
-	font-weight:700;
+	font-weight: 700;
 }
 
 .logo img {
@@ -92,9 +90,8 @@ img.left {
 
 /* header */
 .navbar .nav li.active a {
-	font-weight:bold;
+	font-weight: bold;
 }
-
 
 .navbar-inner {
   padding-right: 20px;

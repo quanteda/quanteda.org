@@ -77,11 +77,10 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/quanteda/</guid>
-      <description>Resources  Tutorials  Learn how to use quanteda in step-by-step tutorials
+      <description> Resources  Tutorials  Learn how to use quanteda in step-by-step tutorials
     Documentation  API’s are documented in detail in plain language
     Publication  List of research papers written using quanteda
-    Objectives We develop quanteda to achieve following core objectives in quantitative text analysis.
- Simplicity and flexibility  Create flexible tools for different analytic purposes Provide consistent and intuitive commands for R users  Best practice  Facilitate transparent and reproducible workflows  High efficiency  Exploit multi-core CPU&amp;rsquo;s to process large datasets Store large datasets in small RAMs of laptop computers</description>
+    </description>
     </item>
     
     <item>
