@@ -30,7 +30,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Projects"
-    url  = "/projects/"
+    url  = "#"
     identifier = "projects"
     weight = 3
     
@@ -42,9 +42,21 @@ paginate = 10
     
 [[menu.main]]
     name = "readtext"
-    url  = "/readtext/"
+    url  = "http://readtext.quanteda.io/"
     parent = "projects"
     weight = 2
+    
+[[menu.main]]
+    name = "spacyr"
+    url  = "http://spacyr.quanteda.io/"
+    parent = "projects"
+    weight = 3
+    
+[[menu.main]]
+    name = "stopwords"
+    url  = "http://stopwords.quanteda.io/"
+    parent = "projects"
+    weight = 4
 
 [[menu.main]]
     name = "Services"
