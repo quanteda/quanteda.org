@@ -68,3 +68,9 @@ paginate = 10
     url  = "/news/"
     weight = 5
     
+[[menu.main]]
+    name = "Blog"
+    url  = "http://blog.quanteda.org/"
+    weight = 6
+    
+    
