@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Quanteda Initiative</title>
-    <link>/tags/</link>
+    <link>https://quanteda.org/tags/</link>
     <description>Recent content in Tags on Quanteda Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 28 Jan 2018 16:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://quanteda.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Event</title>
-      <link>/tags/event/</link>
+      <link>https://quanteda.org/tags/event/</link>
       <pubDate>Sun, 28 Jan 2018 16:00:00 +0000</pubDate>
       
-      <guid>/tags/event/</guid>
+      <guid>https://quanteda.org/tags/event/</guid>
       <description></description>
     </item>
     

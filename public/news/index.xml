@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Quanteda Initiative</title>
-    <link>/news/</link>
+    <link>https://quanteda.org/news/</link>
     <description>Recent content in News on Quanteda Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 28 Jan 2018 16:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://quanteda.org/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Text analysis workshop at WZB Berlin</title>
-      <link>/news/workshop-at-wzb-2018/</link>
+      <link>https://quanteda.org/news/workshop-at-wzb-2018/</link>
       <pubDate>Sun, 28 Jan 2018 16:00:00 +0000</pubDate>
       
-      <guid>/news/workshop-at-wzb-2018/</guid>
+      <guid>https://quanteda.org/news/workshop-at-wzb-2018/</guid>
       <description>Workshop at WZB Berlin We will convene a quanteda workshop at the WZB Berlin Social Science Center on January 31, 2018. For the event we have developed a new tutorial website that contains a step-by-step introduction to quantitative text analysis using quanteda.</description>
     </item>
     
     <item>
       <title>Quanteda v1.0 launch at LondonR event</title>
-      <link>/news/london-r-2018/</link>
+      <link>https://quanteda.org/news/london-r-2018/</link>
       <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
       
-      <guid>/news/london-r-2018/</guid>
+      <guid>https://quanteda.org/news/london-r-2018/</guid>
       <description>Quanteda v1.0 launch at London R At a meeting of London R meeting on 16 January 2016, we announced the release of quanteda v1.0. See the presentation here. We thank all the participants and organizers for the great opportunity and the excellent turnout.
 A video of the presentation is available on the YouTube channel of the Quanteda Initiative.</description>
     </item>
     
     <item>
       <title>Text analysis workshop at ESSSC</title>
-      <link>/news/workshop-at-esssc-2017/</link>
+      <link>https://quanteda.org/news/workshop-at-esssc-2017/</link>
       <pubDate>Wed, 18 Oct 2017 16:00:00 +0000</pubDate>
       
-      <guid>/news/workshop-at-esssc-2017/</guid>
+      <guid>https://quanteda.org/news/workshop-at-esssc-2017/</guid>
       <description>Workshop at ESSSC We will convene a half-day workshop at European Symposium Series on Societal Challenges in Computational Social Science on quantitative text analysis using quanteda.</description>
     </item>
     

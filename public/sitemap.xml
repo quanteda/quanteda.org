@@ -3,65 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/news/workshop-at-wzb-2018/</loc>
+    <loc>https://quanteda.org/news/workshop-at-wzb-2018/</loc>
     <lastmod>2018-01-28T16:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/news/london-r-2018/</loc>
+    <loc>https://quanteda.org/news/london-r-2018/</loc>
     <lastmod>2018-01-17T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/news/workshop-at-esssc-2017/</loc>
+    <loc>https://quanteda.org/news/workshop-at-esssc-2017/</loc>
     <lastmod>2017-10-18T16:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://quanteda.org/about/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://quanteda.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/event/</loc>
+    <loc>https://quanteda.org/tags/event/</loc>
     <lastmod>2018-01-28T16:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/event/</loc>
+    <loc>https://quanteda.org/categories/event/</loc>
     <lastmod>2018-01-28T16:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/news/</loc>
+    <loc>https://quanteda.org/news/</loc>
     <lastmod>2018-01-28T16:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://quanteda.org/</loc>
     <lastmod>2018-01-28T16:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://quanteda.org/tags/</loc>
     <lastmod>2018-01-28T16:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/quanteda/</loc>
+    <loc>https://quanteda.org/quanteda/</loc>
   </url>
   
   <url>
-    <loc>/readtext/</loc>
+    <loc>https://quanteda.org/readtext/</loc>
   </url>
   
 </urlset>
