@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Quanteda Initiative</title>
-    <link>https://quanteda.org/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Quanteda Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="https://quanteda.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Event</title>
-      <link>https://quanteda.org/categories/event/</link>
-      <pubDate>Sun, 28 Jan 2018 16:00:00 +0000</pubDate>
+      <link>/categories/event/</link>
+      <pubDate>Fri, 15 Jun 2018 14:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/categories/event/</guid>
+      <guid>/categories/event/</guid>
       <description></description>
     </item>
     

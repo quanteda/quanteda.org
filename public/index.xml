@@ -2,58 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quanteda Initiative</title>
-    <link>https://quanteda.org/</link>
+    <link>/</link>
     <description>Recent content on Quanteda Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 28 Jan 2018 16:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jun 2018 14:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://quanteda.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Quanteda presentation at Tokyo R meeting</title>
+      <link>/news/tokyo-r-2018/</link>
+      <pubDate>Fri, 15 Jun 2018 14:00:00 +0000</pubDate>
+      
+      <guid>/news/tokyo-r-2018/</guid>
+      <description>At a meeting of Tokyo R on 15 June 2018 at Yahoo Japan&amp;rsquo;s headquarter, Kohei Watanabe presented what is quantitative analysis and what users can do using the latest quanteda. It was a great event where more than We are proud of 200 international audiences, including people from R Studio, turned out. We thank the organizers for giving us such a great opportunity.</description>
+    </item>
+    
+    <item>
       <title>Text analysis workshop at WZB Berlin</title>
-      <link>https://quanteda.org/news/workshop-at-wzb-2018/</link>
+      <link>/news/workshop-at-wzb-2018/</link>
       <pubDate>Sun, 28 Jan 2018 16:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/news/workshop-at-wzb-2018/</guid>
-      <description>Workshop at WZB Berlin We will convene a quanteda workshop at the WZB Berlin Social Science Center on January 31, 2018. For the event we have developed a new tutorial website that contains a step-by-step introduction to quantitative text analysis using quanteda.</description>
+      <guid>/news/workshop-at-wzb-2018/</guid>
+      <description>We will convene a quanteda workshop at the WZB Berlin Social Science Center on January 31, 2018. For the event we have developed a new tutorial website that contains a step-by-step introduction to quantitative text analysis using quanteda.</description>
     </item>
     
     <item>
       <title>Quanteda v1.0 launch at LondonR event</title>
-      <link>https://quanteda.org/news/london-r-2018/</link>
+      <link>/news/london-r-2018/</link>
       <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/news/london-r-2018/</guid>
-      <description>Quanteda v1.0 launch at London R At a meeting of London R meeting on 16 January 2016, we announced the release of quanteda v1.0. See the presentation here. We thank all the participants and organizers for the great opportunity and the excellent turnout.
+      <guid>/news/london-r-2018/</guid>
+      <description>At a meeting of London R meeting on 16 January 2018, we announced the release of quanteda v1.0. See the presentation here. We thank all the participants and organizers for the great opportunity and the excellent turnout.
 A video of the presentation is available on the YouTube channel of the Quanteda Initiative.</description>
     </item>
     
     <item>
       <title>Text analysis workshop at ESSSC</title>
-      <link>https://quanteda.org/news/workshop-at-esssc-2017/</link>
+      <link>/news/workshop-at-esssc-2017/</link>
       <pubDate>Wed, 18 Oct 2017 16:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/news/workshop-at-esssc-2017/</guid>
-      <description>Workshop at ESSSC We will convene a half-day workshop at European Symposium Series on Societal Challenges in Computational Social Science on quantitative text analysis using quanteda.</description>
+      <guid>/news/workshop-at-esssc-2017/</guid>
+      <description>We will convene a half-day workshop at European Symposium Series on Societal Challenges in Computational Social Science on quantitative text analysis using quanteda.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://quanteda.org/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/about/</guid>
+      <guid>/about/</guid>
       <description>Quanteda Initiative Based in London, the Quanteda Initiative is a UK non-profit organization devoted to the promotion of open-source text analysis software. It supports active development of these tools, in addition to providing training materials, training events, and sponsoring workshops and conferences. It’s main product is the open-source quanteda package for R, but also supports a family of independent but interrelated packages for providing additional functionality for natural language processing and document management.</description>
     </item>
     
     <item>
       <title>quanteda</title>
-      <link>https://quanteda.org/quanteda/</link>
+      <link>/quanteda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/quanteda/</guid>
+      <guid>/quanteda/</guid>
       <description> Resources  Tutorials  Learn how to use quanteda in step-by-step tutorials
     Documentation  API’s are documented in detail in plain language
     Publication  List of research papers written using quanteda
@@ -62,10 +71,10 @@ A video of the presentation is available on the YouTube channel of the Quanteda 
     
     <item>
       <title>readtext</title>
-      <link>https://quanteda.org/readtext/</link>
+      <link>/readtext/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/readtext/</guid>
+      <guid>/readtext/</guid>
       <description> Heading 3 Some texts.
 Heading 4 </description>
     </item>
