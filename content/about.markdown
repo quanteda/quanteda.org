@@ -4,8 +4,6 @@ title = "About"
 
 Based in London, the **Quanteda Initiative** is a UK non-profit organization devoted to the promotion of open-source text analysis software. It supports active development of these tools, in addition to providing training materials, training events, and sponsoring workshops and conferences. Its main product is the open-source **quanteda** package for R, but also supports a family of independent but interrelated packages for providing additional functionality for natural language processing and document management.
 
-As an officially designated "community interest company", the Quanteda Initiative is a [special type of limited company](https://www.gov.uk/set-up-a-social-enterprise) which exists to benefit the community rather than private shareholders. 
-
 #### Objectives
 
 As an officially designated "community interest company", the Quanteda Initiative is a [special type of limited company](https://www.gov.uk/set-up-a-social-enterprise) which exists to benefit the community rather than private shareholders. 
@@ -20,12 +18,20 @@ Its core objectives, as stated in its charter, are to:
 
 3. Organize training and dissemination activities related to open-source text analysis software.
 
+#### Legal information
+
+The Quanteda Initiative CIC was registered the United Kingdom as a Community Interest Company, [company number 11135166](https://beta.companieshouse.gov.uk/company/11135166).  Registered address:
+
+    27 Old Gloucester Street
+    London WC1N 3AX
+    United Kingdom
+
 #### Acknowledgements
 
-The first five years of the **quanteda** project's development was funded by the European Research Council grant ERC-2011-StG 283794-QUANTESS (PI Kenneth Benoit).  Additional funding for user application development is being provided by ERC-2018-PoC-QUANTEDA-812960 (PI Kenneth Benoit).
+The first five years of the **quanteda** project's development was funded by the European Research Council grant ERC-2011-StG 283794-QUANTESS (PI Kenneth Benoit).  Additional funding for user application development is being provided by ERC-2018-PoC-QUANTEDA-812960 (PI Kenneth Benoit).  
 
-<img alt="European Research Council" src="/img/erc.png" style="width:150px;">
+<img alt="European Research Council" src="/img/erc.png" style="width:100px;">
 
 Additional funding for user-facing applications and community support has been provided by the London School of Economics and Political Science and its Department of Methodology.
 
-<img alt="LSE" src="/img/730px-London_school_of_economics_logo_with_name.svg.png" style="width:150px;">
+<img alt="LSE" src="/img/730px-London_school_of_economics_logo_with_name.svg.png" style="width:200px;">
