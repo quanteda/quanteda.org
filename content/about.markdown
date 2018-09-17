@@ -2,28 +2,30 @@
 title = "About"
 +++
 
-### Quanteda Initiative
+Based in London, the **Quanteda Initiative** is a UK non-profit organization devoted to the promotion of open-source text analysis software. It supports active development of these tools, in addition to providing training materials, training events, and sponsoring workshops and conferences. Its main product is the open-source **quanteda** package for R, but also supports a family of independent but interrelated packages for providing additional functionality for natural language processing and document management.
 
-Based in London, the Quanteda Initiative is a UK non-profit organization devoted to the promotion of open-source text analysis software. It supports active development of these tools, in addition to providing training materials, training events, and sponsoring workshops and conferences. It’s main product is the open-source quanteda package for R, but also supports a family of independent but interrelated packages for providing additional functionality for natural language processing and document management.
+As an officially designated "community interest company", the Quanteda Initiative is a [special type of limited company](https://www.gov.uk/set-up-a-social-enterprise) which exists to benefit the community rather than private shareholders. 
 
 #### Objectives
 
-We develop open source software to achieve following core objectives in quantitative text analysis. 
+As an officially designated "community interest company", the Quanteda Initiative is a [special type of limited company](https://www.gov.uk/set-up-a-social-enterprise) which exists to benefit the community rather than private shareholders. 
 
-1. Simplicity and flexibility
-    * Create flexible tools for different analytic purposes
-    * Provide consistent and intuitive commands for R users
-2. Best practice
-    * Facilitate transparent and reproducible workflows
-3. High efficiency
-    * Exploit multi-core CPU's to process large datasets
-    * Store large datasets in small RAMs of laptop computers  
-4. Inter-operability 
-    * Allow **quanteda** to be used in conjunction with other R packages
+Its core objectives, as stated in its charter, are to:
 
+1. Support open-source, text analysis software developed for research and scientific analysis.  These efforts focus mainly on the open-source software library **quanteda**, written for the R programming language, and its [related family of extension packages](https://github.com/quanteda). 
 
-#### Supporters
+2. Promote interoperability between text analytic software libraries, including those written in other languages such as Python, Java, or C++.
 
-**quanteda** project is supported by the European Research Council grant ERC-2011-StG 283794-QUANTESS.
+2. Provide ongoing user, technical, and development support for open-source text analysis software.
+
+3. Organize training and dissemination activities related to open-source text analysis software.
+
+#### Acknowledgements
+
+The first five years of the **quanteda** project's development was funded by the European Research Council grant ERC-2011-StG 283794-QUANTESS (PI Kenneth Benoit).  Additional funding for user application development is being provided by ERC-2018-PoC-QUANTEDA-812960 (PI Kenneth Benoit).
 
 <img alt="European Research Council" src="/img/erc.png" style="width:150px;">
+
+Additional funding for user-facing applications and community support has been provided by the London School of Economics and Political Science and its Department of Methodology.
+
+<img alt="LSE" src="/img/730px-London_school_of_economics_logo_with_name.svg.png" style="width:150px;">
