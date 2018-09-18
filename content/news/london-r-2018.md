@@ -1,7 +1,7 @@
 +++
 title = "Quanteda v1.0 launch at LondonR event"
 date = "2018-01-17T14:00:00+00:00"
-tags = ["event"]
+tags = ["LondonR", "launch", "YouTube"]
 categories = ["event"]
 +++
 
