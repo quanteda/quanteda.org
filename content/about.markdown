@@ -20,18 +20,30 @@ Its core objectives, as stated in its charter, are to:
 
 #### Legal information
 
-The Quanteda Initiative CIC was registered the United Kingdom as a Community Interest Company, [company number 11135166](https://beta.companieshouse.gov.uk/company/11135166).  Registered address:
+The Quanteda Initiative CIC was registered the United Kingdom as a Community Interest Company, [company number 11135166](https://beta.companieshouse.gov.uk/company/11135166).
 
-    27 Old Gloucester Street
-    London WC1N 3AX
-    United Kingdom
+Registered address:
+
+&nbsp;&nbsp;&nbsp;&nbsp; 27 Old Gloucester Street \
+&nbsp;&nbsp;&nbsp;&nbsp; London WC1N 3AX \
+&nbsp;&nbsp;&nbsp;&nbsp; United Kingdom
 
 #### Acknowledgements
 
-The first five years of the **quanteda** project's development was funded by the European Research Council grant ERC-2011-StG 283794-QUANTESS (PI Kenneth Benoit).  Additional funding for user application development is being provided by ERC-2018-PoC-QUANTEDA-812960 (PI Kenneth Benoit).  
+<div class="row">
+  <div class="column-left">
+    <p>The first five years of the <strong>quanteda</strong> project's development was funded by the European Research Council grant ERC-2011-StG 283794-QUANTESS (PI Kenneth Benoit).  Additional funding for user application development is being provided by ERC-2018-PoC-QUANTEDA-812960 (PI Kenneth Benoit).</p>
+  </div>
+  <div class="column-right">
+    <img src="/img/erc.png" alt="Forest" style="width:60px;">
+  </div>
+</div>
 
-<img alt="European Research Council" src="/img/erc.png" style="width:100px;">
-
-Additional funding for user-facing applications and community support has been provided by the London School of Economics and Political Science and its Department of Methodology.
-
-<img alt="LSE" src="/img/730px-London_school_of_economics_logo_with_name.svg.png" style="width:200px;">
+<div class="row">
+  <div class="column-left">
+    <p>Additional funding for user-facing applications and community support has been provided by the London School of Economics and Political Science and its Department of Methodology.</p>
+  </div>
+  <div class="column-right">
+    <img alt="LSE" src="/img/730px-London_school_of_economics_logo_with_name.svg.png" style="width:250px;">
+  </div>
+</div>
