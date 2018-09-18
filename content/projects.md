@@ -6,7 +6,7 @@ id = "projects"
 <div class="row">
   <div class="span3">
     <div class="well">
-    <a href="http://docs.quanteda.io/">
+      <a href="http://docs.quanteda.io/">
       <div class="centered e_bounce">
         <i class="icon-bg-light icon-circled fa fa-code icon-3x active"></i>
         <h4>quanteda</h4>
