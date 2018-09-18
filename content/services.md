@@ -1,3 +1,8 @@
++++
+title = "Services"
+id = "services"
++++
+
 Part of the **Quanteda Initiative** is to promote the use of the tools whose development it supports through training and dissemination activities.  These include publicly accessible workshops, invitation-only conferences, and bespoke training events.
 
 For a list of upcoming events, see the Events category in our [News](/news) section. 

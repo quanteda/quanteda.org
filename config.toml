@@ -44,7 +44,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Projects"
-    url  = "#"
+    url  = "/projects/"
     identifier = "projects"
     weight = 3
     
