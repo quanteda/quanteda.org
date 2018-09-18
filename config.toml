@@ -26,7 +26,7 @@ paginate = 10
 [taxonomies]
   category = "categories"   
   tag = "tags"
-  package = "package"
+  package = "packages"
 
 [menu]
 
