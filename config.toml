@@ -14,6 +14,20 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Define the number of posts per page
 paginate = 10
 
+# a guide to our taxonomies ----
+# categories:
+# - Packages (software updates)
+# - Training (for training and educational events specifically)
+# - Events (workshops and conferences not aimed at training)
+# - Organisational (for company-related changes, e.g. personnel, funding partnerships, etc.)
+# - Misc (anything else - or should we omit this?)
+# tags: anything that might be useful in search
+# package: the name, if any, of the packages associated with the news
+[taxonomies]
+  category = "categories"   
+  tag = "tags"
+  package = "package"
+
 [menu]
 
 # Main menu
