@@ -6,17 +6,71 @@
     <description>Recent content in Tags on Quanteda Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 15 Jun 2018 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2018 14:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Event</title>
-      <link>/tags/event/</link>
+      <title>Launch</title>
+      <link>/tags/launch/</link>
+      <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
+      
+      <guid>/tags/launch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Londonr</title>
+      <link>/tags/londonr/</link>
+      <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
+      
+      <guid>/tags/londonr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation</title>
+      <link>/tags/presentation/</link>
       <pubDate>Fri, 15 Jun 2018 14:00:00 +0000</pubDate>
       
-      <guid>/tags/event/</guid>
+      <guid>/tags/presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tokyor</title>
+      <link>/tags/tokyor/</link>
+      <pubDate>Fri, 15 Jun 2018 14:00:00 +0000</pubDate>
+      
+      <guid>/tags/tokyor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>/tags/tutorial/</link>
+      <pubDate>Sun, 28 Jan 2018 16:00:00 +0000</pubDate>
+      
+      <guid>/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>/tags/workshop/</link>
+      <pubDate>Sun, 28 Jan 2018 16:00:00 +0000</pubDate>
+      
+      <guid>/tags/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youtube</title>
+      <link>/tags/youtube/</link>
+      <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
+      
+      <guid>/tags/youtube/</guid>
       <description></description>
     </item>
     
