@@ -11,11 +11,8 @@ As an officially designated "community interest company", the Quanteda Initiativ
 Its core objectives, as stated in its charter, are to:
 
 1. Support open-source, text analysis software developed for research and scientific analysis.  These efforts focus mainly on the open-source software library **quanteda**, written for the R programming language, and its [related family of extension packages](https://github.com/quanteda). 
-
 2. Promote interoperability between text analytic software libraries, including those written in other languages such as Python, Java, or C++.
-
 2. Provide ongoing user, technical, and development support for open-source text analysis software.
-
 3. Organize training and dissemination activities related to open-source text analysis software.
 
 #### Legal information

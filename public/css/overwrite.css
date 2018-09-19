@@ -1980,3 +1980,7 @@ aside .widget ul.tags li {
 div .navbar .nav > li > a {
   font-size:15px;
 }
+
+ol li, ul li {
+  line-height: inherit;
+} 
