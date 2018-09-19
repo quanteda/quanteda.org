@@ -31,19 +31,19 @@ Registered address:
 #### Acknowledgements
 
 <div class="row">
-  <div class="column-left">
+  <div class="span8">
     <p>The first five years of the <strong>quanteda</strong> project's development was funded by the European Research Council grant ERC-2011-StG 283794-QUANTESS (PI Kenneth Benoit).  Additional funding for user application development is being provided by ERC-2018-PoC-QUANTEDA-812960 (PI Kenneth Benoit).</p>
   </div>
-  <div class="column-right">
-    <img src="/img/erc.png" alt="Forest" style="width:60px;">
+  <div class="span4">
+    <img src="/img/erc.png" alt="Forest" style="height:100px;">
   </div>
 </div>
 
 <div class="row">
-  <div class="column-left">
+  <div class="span8">
     <p>Additional funding for user-facing applications and community support has been provided by the London School of Economics and Political Science and its Department of Methodology.</p>
   </div>
-  <div class="column-right">
-    <img alt="LSE" src="/img/730px-London_school_of_economics_logo_with_name.svg.png" style="width:250px;">
+  <div class="span4">
+    <img alt="LSE" src="/img/730px-London_school_of_economics_logo_with_name.svg.png" style="height:80px;">
   </div>
 </div>
