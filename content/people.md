@@ -67,7 +67,7 @@ id = "people"
               <h4><strong>Stefan Müller</strong></h4></a>
               <h5><i>Senior Training Advisor</i></h4>
               <p>
-                I work as the editor of the <a href="https://blog.quanteda.org">QI blog</a> and maintain <strong>quanteda</strong> <a href="https://tutorial.quanteda.io">tutorials</a> and vignettes. As Senior Training Advisor I organize workshops and training events on <strong>quanteda</strong> and quantitative text analysis. Currently finishing my PhD thesis at Trinity College Dublin, from January 2019, I will be a postdoctoral <a href="https://muellerstefan.net">researcher</a> in the Department of Political Science at the University of Zurich, focusing on digital democracy and computational social science.
+                I work as the editor of the <a href="https://blog.quanteda.org">QI blog</a> and maintain <strong>quanteda</strong> <a href="https://tutorial.quanteda.io">tutorials</a> and vignettes. As Senior Training Advisor I organize training events on quantitative text analysis. Currently finishing my PhD thesis at Trinity College Dublin, from January 2019, I will be a postdoctoral <a href="https://muellerstefan.net">researcher</a> at the University of Zurich.
               </p>
             </div>
           </div>
