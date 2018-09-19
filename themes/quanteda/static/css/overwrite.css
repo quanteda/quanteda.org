@@ -12,6 +12,11 @@ img {
   -ms-interpolation-mode: bicubic;
 }
 
+.img-circle {
+    border-radius: 50%;
+    width: 100px;
+}
+
 .column-left {
   float: left;
   width: 85%;
