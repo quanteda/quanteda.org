@@ -10,7 +10,7 @@ id = "people"
           <div class="min-height">
           <a href="mailto:kbenoit@quanteda.org">
             <div class="centered e_bounce">
-              <img class="img-circle" src="/img/kenbenoit.png" alt="Kenneth Benoit">
+              <img class="img-circle" src="/img/ken-benoit.png" alt="Kenneth Benoit">
               <h4><strong>Kenneth Benoit</strong></h4></a>
               <h5><i>Managing Director</i> and <i>Founder</i></h4>
               <p>
@@ -72,7 +72,7 @@ id = "people"
           <div class="min-height">
           <a href="mailto:smueller@quanteda.org">
             <div class="centered e_bounce">
-              <img class="img-circle" src="/img/stefan.jpg" alt="Stefan Müller">
+              <img class="img-circle" src="/img/stefan-mueller.jpg" alt="Stefan Müller">
               <h4><strong>Stefan Müller</strong></h4></a>
               <h5><i>Senior Training Advisor</i></h4>
               <p>
