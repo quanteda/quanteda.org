@@ -61,6 +61,10 @@
   </url>
   
   <url>
+    <loc>/people/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/presentation/</loc>
     <lastmod>2018-06-15T14:00:00+00:00</lastmod>
     <priority>0</priority>
