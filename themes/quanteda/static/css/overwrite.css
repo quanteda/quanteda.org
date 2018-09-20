@@ -12,22 +12,8 @@ img {
   -ms-interpolation-mode: bicubic;
 }
 
-.column-left {
-  float: left;
-  width: 85%;
-  padding-left: 30px;
-}
-
-.column-right {
-  float: right;
-  width: 12.5%;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
+.min-height {
+  min-height:450px;
 }
 
 .hide-text {
@@ -55,7 +41,6 @@ body {
 
 p {
   margin: 0 0 15px;
-  font-size: 18px;
 }
 
 .lead {
@@ -1981,4 +1966,54 @@ a.thumbnail:hover {
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
+}
+
+/* emergency font size fix */
+
+body {
+  font-size: 15px;
+}
+aside {
+  font-size: 13px;
+}
+
+aside .widget ul.tags li {
+  line-height: 30px;
+}
+
+div .navbar .nav > li > a {
+  font-size:15px;
+}
+
+div ul.topnav .dropdown-menu li > a {
+  font-size:15px;
+}
+
+ol li, ul li {
+  line-height: inherit;
+} 
+
+/* people */
+
+.img-circle {
+    border-radius: 50%;
+    width: 150px;
+}
+
+.column-left {
+  float: left;
+  width: 85%;
+  padding-left: 30px;
+}
+
+.column-right {
+  float: right;
+  width: 12.5%;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }

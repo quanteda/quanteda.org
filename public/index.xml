@@ -17,7 +17,7 @@
       <pubDate>Fri, 15 Jun 2018 14:00:00 +0000</pubDate>
       
       <guid>/news/tokyo-r-2018/</guid>
-      <description>At a meeting of Tokyo R on 15 June 2018 at Yahoo Japan&amp;rsquo;s headquarter, Kohei Watanabe presented what is quantitative analysis and what users can do using the latest quanteda. It was a great event where more than We are proud of 200 international audiences, including people from R Studio, turned out. We thank the organizers for giving us such a great opportunity.</description>
+      <description>At a meeting of Tokyo R on 15 June 2018 at Yahoo Japan&amp;rsquo;s headquarters, Kohei Watanabe presented an overview of quantitative text analysis and how to implement it using the latest version of quanteda. The event was attended by more than 200 international delegates, including staff from R Studio. We thank the organizers for giving us such a great opportunity to publicize our activities and software.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 28 Jan 2018 16:00:00 +0000</pubDate>
       
       <guid>/news/workshop-at-wzb-2018/</guid>
-      <description>We will convene a quanteda workshop at the WZB Berlin Social Science Center on January 31, 2018. For the event we have developed a new tutorial website that contains a step-by-step introduction to quantitative text analysis using quanteda.</description>
+      <description>Kohei Watanabe and Stefan Müller held a workshop on quanteda on 31 January 2018, the day before the Manifesto Corpus Conference 2018 held from 1-2 February 2018 at the WZB Berlin Social Science Center. This event featured the newly launched new tutorial website that contains a step-by-step introduction to quantitative text analysis using quanteda.</description>
     </item>
     
     <item>
@@ -54,7 +54,41 @@ A video of the presentation is available on the YouTube channel of the Quanteda 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Quanteda Initiative Based in London, the Quanteda Initiative is a UK non-profit organization devoted to the promotion of open-source text analysis software. It supports active development of these tools, in addition to providing training materials, training events, and sponsoring workshops and conferences. It’s main product is the open-source quanteda package for R, but also supports a family of independent but interrelated packages for providing additional functionality for natural language processing and document management.</description>
+      <description>Based in London, the Quanteda Initiative is a UK non-profit organization devoted to the promotion of open-source text analysis software. It supports active development of these tools, in addition to providing training materials, training events, and sponsoring workshops and conferences. Its main product is the open-source quanteda package for R, but also supports a family of independent but interrelated packages for providing additional functionality for natural language processing and document management.</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/</guid>
+      <description>Our team consists of:
+Kenneth Benoit Managing Director and Founder. I&amp;rsquo;m also a Professor in the Department of Methodology, London School of Economics and Political Science. I&amp;rsquo;m a social scientist, software developer, and amateur photographer.
+Kohei Watanabe Chief Technology Officer and Director. I design and write core functions of quanteda and oversee developent of other packages for text analysis. Through development of user-friendly and high-performance tools, I am trying to make quantitative text analysis more accessible to people from different backgrounds.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>quanteda  quanteda is an R package for managing and analyzing textual data.
+    readtext  readtext is a one-function package that reads files containing text, along with any associated document-level metadata.
+    spacyr  spacyr is an R wrapper to the spaCy “industrial strength natural language processing” Python library.
+    stopwords  stopwords provids “one-stop shopping” for stopword lists in R, for multiple languages and sources.</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/</guid>
+      <description>Part of the Quanteda Initiative is to promote the use of the tools whose development it supports through training and dissemination activities. These include publicly accessible workshops, invitation-only conferences, and bespoke training events.
+For a list of upcoming events, see the Events category in our News section.
+To arrange training in the use of quanteda or in quantitative text analysis methodology more broadly, email us at admin@quanteda.org.</description>
     </item>
     
     <item>
@@ -63,9 +97,9 @@ A video of the presentation is available on the YouTube channel of the Quanteda 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/quanteda/</guid>
-      <description> Resources  Tutorials  Learn how to use quanteda in step-by-step tutorials
-    Documentation  API’s are documented in detail in plain language
-    Publication  List of research papers written using quanteda
+      <description> Documentation  Detailed online documentation and examples
+    Tutorials  Step-by-step tutorials for using quanteda
+    Publications  Research papers written using quanteda
     </description>
     </item>
     

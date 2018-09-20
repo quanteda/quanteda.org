@@ -39,8 +39,21 @@ paginate = 10
 
 [[menu.main]]
     name = "About"
-    url  = "/about/"
+    url  = "#"
+    identifier = "about"
     weight = 2
+    
+[[menu.main]]
+    name = "People"
+    url  = "/people/"
+    parent = "about"
+    weight = 1
+    
+[[menu.main]]
+    name = "About QI"
+    url  = "/about/"
+    parent = "about"
+    weight = 2   
 
 [[menu.main]]
     name = "Projects"
