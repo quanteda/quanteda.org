@@ -32,19 +32,46 @@
   </url>
   
   <url>
-    <loc>/tags/event/</loc>
-    <lastmod>2018-06-15T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/event/</loc>
     <lastmod>2018-06-15T14:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/tags/launch/</loc>
+    <lastmod>2018-01-17T14:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/londonr/</loc>
+    <lastmod>2018-01-17T14:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/news/</loc>
+    <lastmod>2018-06-15T14:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/packages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/presentation/</loc>
+    <lastmod>2018-06-15T14:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>/packages/quanteda/</loc>
     <lastmod>2018-06-15T14:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -56,8 +83,42 @@
   </url>
   
   <url>
+    <loc>/services/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
+    <lastmod>2018-01-17T14:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tokyor/</loc>
     <lastmod>2018-06-15T14:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/training/</loc>
+    <lastmod>2017-10-18T16:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tutorial/</loc>
+    <lastmod>2018-01-28T16:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/workshop/</loc>
+    <lastmod>2018-01-28T16:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/youtube/</loc>
+    <lastmod>2018-01-17T14:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -11,11 +11,8 @@ As an officially designated "community interest company", the Quanteda Initiativ
 Its core objectives, as stated in its charter, are to:
 
 1. Support open-source, text analysis software developed for research and scientific analysis.  These efforts focus mainly on the open-source software library **quanteda**, written for the R programming language, and its [related family of extension packages](https://github.com/quanteda). 
-
 2. Promote interoperability between text analytic software libraries, including those written in other languages such as Python, Java, or C++.
-
 2. Provide ongoing user, technical, and development support for open-source text analysis software.
-
 3. Organize training and dissemination activities related to open-source text analysis software.
 
 #### Legal information
@@ -31,19 +28,19 @@ Registered address:
 #### Acknowledgements
 
 <div class="row">
-  <div class="column-left">
+  <div class="span8">
     <p>The first five years of the <strong>quanteda</strong> project's development was funded by the European Research Council grant ERC-2011-StG 283794-QUANTESS (PI Kenneth Benoit).  Additional funding for user application development is being provided by ERC-2018-PoC-QUANTEDA-812960 (PI Kenneth Benoit).</p>
   </div>
-  <div class="column-right">
-    <img src="/img/erc.png" alt="Forest" style="width:60px;">
+  <div class="span4">
+    <img src="/img/erc.png" alt="Forest" style="height:100px;">
   </div>
 </div>
 
 <div class="row">
-  <div class="column-left">
+  <div class="span8">
     <p>Additional funding for user-facing applications and community support has been provided by the London School of Economics and Political Science and its Department of Methodology.</p>
   </div>
-  <div class="column-right">
-    <img alt="LSE" src="/img/730px-London_school_of_economics_logo_with_name.svg.png" style="width:250px;">
+  <div class="span4">
+    <img alt="LSE" src="/img/730px-London_school_of_economics_logo_with_name.svg.png" style="height:80px;">
   </div>
 </div>
