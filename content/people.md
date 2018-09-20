@@ -7,6 +7,7 @@ id = "people"
       <div class="row">
       <div class="span4">
           <div class="well">
+          <div class="min-height">
           <a href="mailto:kbenoit@quanteda.org">
             <div class="centered e_bounce">
               <img class="img-circle" src="/img/kenbenoit.png" alt="Kenneth Benoit">
@@ -18,8 +19,10 @@ id = "people"
             </div>
           </div>
         </div>
+      </div>  
           <div class="span4">
           <div class="well">
+          <div class="min-height">
           <a href="mailto:koheiw@quanteda.org">
             <div class="centered e_bounce">
               <img class="img-circle" src="/img/kohei-watanabe.png" alt="Kohei Watanabe">
@@ -31,8 +34,10 @@ id = "people"
             </div>
           </div>
         </div>
+      </div>   
         <div class="span4">
           <div class="well">
+          <div class="min-height">
           <a href="mailto:amatsuo@quanteda.org">
             <div class="centered e_bounce">
               <img class="img-circle" src="/img/akitaka-matsuo.png" alt="Akitaka Matsuo">
@@ -44,9 +49,12 @@ id = "people"
             </div>
           </div>
         </div>
-        </div>
+      </div>   
+    </div>
+        <div class="row">
         <div class="span4">
           <div class="well">
+          <div class="min-height">
           <a href="mailto:gokhan@quanteda.org">
             <div class="centered e_bounce">
               <img class="img-circle" src="/img/ciflikli.png" alt="Gokhan Ciflikli">
@@ -58,9 +66,10 @@ id = "people"
             </div>
           </div>
         </div>
-      <div class="row">
+      </div>   
       <div class="span4">
           <div class="well">
+          <div class="min-height">
           <a href="mailto:smueller@quanteda.org">
             <div class="centered e_bounce">
               <img class="img-circle" src="/img/stefan.jpg" alt="Stefan Müller">
@@ -73,3 +82,4 @@ id = "people"
           </div>
         </div>
       </div>
+    </div>   
