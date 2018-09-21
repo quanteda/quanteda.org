@@ -25,11 +25,11 @@ id = "people"
           <div class="min-height">
           <a href="mailto:koheiw@quanteda.org">
             <div class="centered e_bounce">
-              <img class="img-circle" src="/img/kohei-watanabe.png" alt="Kohei Watanabe">
+              <img class="img-circle" src="/img/kohei-watanabe.jpg" alt="Kohei Watanabe">
               <h4><strong>Kohei Watanabe</strong></h4></a>
               <h5><i>Chief Technology Officer</i> and <i>Director</i></h4>
               <p>
-                I design and write core functions of <strong>quanteda</strong> and oversee development of other packages for text analysis. Through development of user-friendly and high-performance tools, I am trying to make quantitative text analysis more accessible to people from different backgrounds. I am also a Research Officer at Waseda University (Tokyo).
+                I am also an Assistant Professor at Waseda University (Tokyo). I design and write core functions of <a href="https://spacyr.quanteda.io">quanteda</a> and oversee development of other packages for text analysis to make quantitative text analysis more accessible to people from different backgrounds. .
               </p>
             </div>
           </div>
@@ -44,7 +44,7 @@ id = "people"
               <h4><strong>Akitaka Matsuo</strong></h4></a>
               <h5><i>Solutions Architect</i></h4>
               <p>
-                I am responsible for systems architecture, cloud computing, general problem solving, and multiple language integration such as the <a href="https://spacyr.quanteda.io"><strong>spacyr</strong></a> package. I am also a Data Science Fellow at the London School of Economics.
+                I am responsible for systems architecture, cloud computing, general problem solving, and multiple language integration such as the <a href="https://spacyr.quanteda.io">spacyr</a> package. I am also a Data Science Fellow at the London School of Economics.
               </p>
             </div>
           </div>
@@ -76,7 +76,7 @@ id = "people"
               <h4><strong>Stefan Müller</strong></h4></a>
               <h5><i>Senior Training Advisor</i></h4>
               <p>
-                I work as the editor of the <a href="https://blog.quanteda.org">QI blog</a> and maintain <strong>quanteda</strong> <a href="https://tutorial.quanteda.io">tutorials</a> and vignettes. As Senior Training Advisor I organize training events on quantitative text analysis. Currently finishing my PhD thesis at Trinity College Dublin, from January 2019, I will be a postdoctoral <a href="https://muellerstefan.net">researcher</a> at the University of Zurich.
+                I work as the editor of the <a href="https://blog.quanteda.org">QI blog</a> and maintain <a href="https://tutorial.quanteda.io">quanteda tutorials</a> and vignettes. As Senior Training Advisor I organize training events on quantitative text analysis. Currently finishing my PhD thesis at Trinity College Dublin, from January 2019, I will be a postdoctoral <a href="https://muellerstefan.net">researcher</a> at the University of Zurich.
               </p>
             </div>
           </div>
