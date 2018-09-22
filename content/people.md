@@ -29,7 +29,7 @@ id = "people"
               <h4><strong>Kohei Watanabe</strong></h4></a>
               <h5><i>Chief Technology Officer</i> and <i>Director</i></h4>
               <p>
-                I am also an Assistant Professor at Waseda University (Tokyo). I design and write core functions of <a href="https://spacyr.quanteda.io">quanteda</a> and oversee development of other packages for text analysis to make quantitative text analysis more accessible to people from different backgrounds. .
+                I am also an Assistant Professor at Waseda University (Tokyo). I design and write core functions of <a href="https://spacyr.quanteda.io">quanteda</a> and oversee development of other packages for text analysis to make quantitative text analysis more accessible to people from different backgrounds.
               </p>
             </div>
           </div>
@@ -50,7 +50,6 @@ id = "people"
           </div>
         </div>
       </div>   
-    </div>
         <div class="row">
         <div class="span4">
           <div class="well">
