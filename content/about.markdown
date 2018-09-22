@@ -2,7 +2,7 @@
 title = "About"
 +++
 
-Based in London, the **Quanteda Initiative** is a UK non-profit organization devoted to the promotion of open-source text analysis software. It supports active development of these tools, in addition to providing training materials, training events, and sponsoring workshops and conferences. Its main product is the open-source **quanteda** package for R, but also supports a family of independent but interrelated packages for providing additional functionality for natural language processing and document management.
+Based in London, the **Quanteda Initiative** is a UK non-profit organization devoted to the promotion of open-source text analysis software. It supports active development of these tools, in addition to providing training materials, training events, and sponsoring workshops and conferences. Its main product is the open-source **quanteda** package for R, but the Quanteda Initiative also supports a family of independent but interrelated packages for providing additional functionality for natural language processing and document management.
 
 #### Objectives
 
