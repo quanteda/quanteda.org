@@ -29,7 +29,7 @@ id = "people"
               <h4><strong>Kohei Watanabe</strong></h4></a>
               <h5><i>Chief Technology Officer</i> and <i>Director</i></h4>
               <p>
-                I am also an Assistant Professor at Waseda University (Tokyo). I design and write core functions of <a href="https://spacyr.quanteda.io">quanteda</a> and oversee development of other packages for text analysis to make quantitative text analysis more accessible to people from different backgrounds. .
+                I am also an Assistant Professor at Waseda University (Tokyo). I design and write core functions of <a href="https://spacyr.quanteda.io">quanteda</a> and oversee development of other packages for text analysis to make quantitative text analysis more accessible to people from different backgrounds.
               </p>
             </div>
           </div>
@@ -76,7 +76,7 @@ id = "people"
               <h4><strong>Stefan Müller</strong></h4></a>
               <h5><i>Senior Training Advisor</i></h4>
               <p>
-                I work as the editor of the <a href="https://blog.quanteda.org">QI blog</a> and maintain <a href="https://tutorial.quanteda.io">quanteda tutorials</a> and vignettes. As Senior Training Advisor I organize training events on quantitative text analysis. Currently finishing my PhD thesis at Trinity College Dublin, from January 2019, I will be a postdoctoral <a href="https://muellerstefan.net">researcher</a> at the University of Zurich.
+                I work as the editor of the <a href="https://blog.quanteda.org">QI blog</a> and maintain <a href="https://tutorials.quanteda.io">quanteda tutorials</a> and vignettes. As Senior Training Advisor I organize training events on quantitative text analysis. Currently finishing my PhD thesis at Trinity College Dublin, from January 2019, I will be a postdoctoral <a href="https://muellerstefan.net">researcher</a> at the University of Zurich.
               </p>
             </div>
           </div>
