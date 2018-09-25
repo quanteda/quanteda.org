@@ -11,7 +11,7 @@ id = "projects"
         <i class="icon-bg-light icon-circled fa fa-code icon-3x active"></i>
         <h4>quanteda</h4>
         </a>
-        <p><strong>quanteda</strong> is an R package for managing and analyzing textual data.</p>
+        <p><strong>quanteda</strong> is an R package providing comprehensive functionality for managing and analyzing textual data.</p>
       </div>
     </div>
   </div>
@@ -22,7 +22,7 @@ id = "projects"
         <i class="icon-bg-light icon-circled fa fa-book icon-3x active"></i>
         <h4>readtext</h4>
         </a>
-        <p><strong>readtext</strong> is a one-function package that reads files containing text, along with any associated document-level metadata.</p>
+        <p><strong>readtext</strong> is a one-function R package that reads and converts files containing text from a variety of input formats.</p>
       </div>
     </div>
   </div>
@@ -44,7 +44,7 @@ id = "projects"
         <i class="icon-bg-light icon-circled fa fa-hand-paper icon-3x active"></i>
         <h4>stopwords</h4>
         </a>
-        <p><strong>stopwords</strong> provids “one-stop shopping” for stopword lists in R, for multiple languages and sources.</p>
+        <p><strong>stopwords</strong> provids “one-stop shopping” for stopword lists in R, for multiple languages from many sources.</p>
       </div>
     </div>
   </div>
