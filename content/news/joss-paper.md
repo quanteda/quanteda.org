@@ -1,5 +1,5 @@
 +++
-title = "quanteda artciel published in the Journal of Open Source Software"
+title = "quanteda article published in the Journal of Open Source Software"
 date = "2018-10-08T14:00:00+00:00"
 tags = ["paper", "publication"]
 categories = ["publications"]
