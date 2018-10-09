@@ -30,11 +30,29 @@
     </item>
     
     <item>
+      <title>Paper</title>
+      <link>/tags/paper/</link>
+      <pubDate>Mon, 08 Oct 2018 14:00:00 +0000</pubDate>
+      
+      <guid>/tags/paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Presentation</title>
       <link>/tags/presentation/</link>
       <pubDate>Fri, 15 Jun 2018 14:00:00 +0000</pubDate>
       
       <guid>/tags/presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>/tags/publication/</link>
+      <pubDate>Mon, 08 Oct 2018 14:00:00 +0000</pubDate>
+      
+      <guid>/tags/publication/</guid>
       <description></description>
     </item>
     
