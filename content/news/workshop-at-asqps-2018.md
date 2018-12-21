@@ -1,6 +1,6 @@
 +++
 title = "Text analysis workshop before the Annual Meeting of the Australian Society for Quantitative Political Science"
-date = "2018-12-07T16:00:00+00:00"
+date = "2018-12-21T16:00:00+00:00"
 tags = ["workshop", "tutorial"]
 categories = ["event"]
 packages = ["quanteda"]
