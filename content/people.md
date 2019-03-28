@@ -74,9 +74,9 @@ id = "people"
             <div class="centered e_bounce">
               <img class="img-circle" src="/img/stefan-mueller.jpg" alt="Stefan Müller">
               <h4><strong>Stefan Müller</strong></h4></a>
-              <h5><i>Senior Training Advisor</i></h4>
+              <h5><i>Training Advisor</i></h4>
               <p>
-                I work as the editor of the <a href="https://blog.quanteda.org">QI blog</a> and maintain <a href="https://tutorials.quanteda.io">quanteda tutorials</a> and vignettes. As Senior Training Advisor I organize training events on quantitative text analysis. Currently finishing my PhD thesis at Trinity College Dublin, from January 2019, I will be a postdoctoral <a href="https://muellerstefan.net">researcher</a> at the University of Zurich.
+                I manage the package documentation, work as the editor of the <a href="https://blog.quanteda.org">QI blog</a> and maintain <a href="https://tutorials.quanteda.io">quanteda tutorials</a>. As Training Advisor I organize workshops on quantitative text analysis. I am also a postdoctoral <a href="https://muellerstefan.net">researcher</a> at the University of Zurich.
               </p>
             </div>
           </div>

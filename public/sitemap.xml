@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/news/joss-paper/</loc>
+    <lastmod>2018-10-08T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/news/workshop-at-bigsss-2018/</loc>
     <lastmod>2018-09-19T16:00:00+00:00</lastmod>
   </url>
@@ -56,12 +61,18 @@
   
   <url>
     <loc>/news/</loc>
-    <lastmod>2018-09-19T16:00:00+00:00</lastmod>
+    <lastmod>2018-10-08T14:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/packages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/paper/</loc>
+    <lastmod>2018-10-08T14:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -80,14 +91,26 @@
   </url>
   
   <url>
+    <loc>/tags/publication/</loc>
+    <lastmod>2018-10-08T14:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/publications/</loc>
+    <lastmod>2018-10-08T14:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/packages/quanteda/</loc>
-    <lastmod>2018-09-19T16:00:00+00:00</lastmod>
+    <lastmod>2018-10-08T14:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-09-19T16:00:00+00:00</lastmod>
+    <lastmod>2018-10-08T14:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

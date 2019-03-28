@@ -6,10 +6,21 @@
     <description>Recent content on Quanteda Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 19 Sep 2018 16:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Oct 2018 14:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quanteda article published in the Journal of Open Source Software</title>
+      <link>/news/joss-paper/</link>
+      <pubDate>Mon, 08 Oct 2018 14:00:00 +0000</pubDate>
+      
+      <guid>/news/joss-paper/</guid>
+      <description>The Quanteda team has published a paper in the Journal of Open Source Software. The journal publishes peer-reviewed articles on research software packages, aiming to improve the quality of the software submitted.
+The paper summarizes the design and functions of Quanteda, focusing on corpus management, natural langauge processing, text scaling and text statistics, and visualization.
+If you use the Quanteda package in your own work, please cite this paper in the future.</description>
+    </item>
     
     <item>
       <title>Text analysis workshop at BIGSSS &amp; SOCIUM in Bremen</title>
@@ -64,7 +75,7 @@ A video of the presentation is available on the YouTube channel of the Quanteda 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Based in London, the Quanteda Initiative is a UK non-profit organization devoted to the promotion of open-source text analysis software. It supports active development of these tools, in addition to providing training materials, training events, and sponsoring workshops and conferences. Its main product is the open-source quanteda package for R, but also supports a family of independent but interrelated packages for providing additional functionality for natural language processing and document management.</description>
+      <description>Based in London, the Quanteda Initiative is a UK non-profit organization devoted to the promotion of open-source text analysis software. It supports active development of these tools, in addition to providing training materials, training events, and sponsoring workshops and conferences. Its main product is the open-source quanteda package for R, but the Quanteda Initiative also supports a family of independent but interrelated packages for providing additional functionality for natural language processing and document management.</description>
     </item>
     
     <item>
@@ -82,10 +93,10 @@ A video of the presentation is available on the YouTube channel of the Quanteda 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
-      <description>quanteda  quanteda is an R package for managing and analyzing textual data.
-    readtext  readtext is a one-function package that reads files containing text, along with any associated document-level metadata.
+      <description>quanteda  quanteda is an R package providing comprehensive functionality for managing and analyzing textual data.
+    readtext  readtext is a one-function R package that reads and converts files containing text from a variety of input formats.
     spacyr  spacyr is an R wrapper to the spaCy “industrial strength natural language processing” Python library.
-    stopwords  stopwords provids “one-stop shopping” for stopword lists in R, for multiple languages and sources.</description>
+    stopwords  stopwords provids “one-stop shopping” for stopword lists in R, for multiple languages from many sources.</description>
     </item>
     
     <item>

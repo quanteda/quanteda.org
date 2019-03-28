@@ -6,10 +6,21 @@
     <description>Recent content in News on Quanteda Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 19 Sep 2018 16:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Oct 2018 14:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quanteda article published in the Journal of Open Source Software</title>
+      <link>/news/joss-paper/</link>
+      <pubDate>Mon, 08 Oct 2018 14:00:00 +0000</pubDate>
+      
+      <guid>/news/joss-paper/</guid>
+      <description>The Quanteda team has published a paper in the Journal of Open Source Software. The journal publishes peer-reviewed articles on research software packages, aiming to improve the quality of the software submitted.
+The paper summarizes the design and functions of Quanteda, focusing on corpus management, natural langauge processing, text scaling and text statistics, and visualization.
+If you use the Quanteda package in your own work, please cite this paper in the future.</description>
+    </item>
     
     <item>
       <title>Text analysis workshop at BIGSSS &amp; SOCIUM in Bremen</title>
