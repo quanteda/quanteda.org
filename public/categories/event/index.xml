@@ -2,59 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Event on Quanteda Initiative</title>
-    <link>/categories/event/</link>
+    <link>https://quanteda.org/categories/event/</link>
     <description>Recent content in Event on Quanteda Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 19 Sep 2018 16:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jan 2019 16:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/event/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://quanteda.org/categories/event/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Seminar presentation by Kenneth Benoit at the University of Auckland</title>
+      <link>https://quanteda.org/news/seminar-at-university-of-auckland-2019/</link>
+      <pubDate>Mon, 21 Jan 2019 16:00:00 +0000</pubDate>
+      
+      <guid>https://quanteda.org/news/seminar-at-university-of-auckland-2019/</guid>
+      <description>On Thursday, 24 January 2019 at 3pm, Kenneth Benoit will give a talk at the Public Policy Institute of the University of Auckland about &amp;lsquo;The Ten Most Important Things I’ve Learned about Quantitative Text Analysis&amp;rsquo;. The presentation includes the epistemology of text analysis, some very practical issues about getting started, some illustrations of pitfalls to avoid, reasons both to embrace and to be wary of open source software, and career issues about developing community projects.</description>
+    </item>
+    
+    <item>
+      <title>Call for papers: POLTEXT symposium in Tokyo on 14-15 September 2019</title>
+      <link>https://quanteda.org/news/poltext-symposium-cfp-2019/</link>
+      <pubDate>Tue, 08 Jan 2019 16:00:00 +0000</pubDate>
+      
+      <guid>https://quanteda.org/news/poltext-symposium-cfp-2019/</guid>
+      <description>POLTEXT is an international and interdisciplinary symposium on the application of natural language processing techniques in social science research. The third POLTEXT conference, organized by Kohei Watanabe (Chief Technology Officer and a Director of the Quanteda Initiative) Miklós Sebők, and Lisa Lechner takes place at Waseda University (Tokyo) on 14-15 September 2019.
+The symposium aims to facilitate the knowledge exchange between social scientists and computer scientists who address social, political or economic issues through the analysis of textual data by employing quantitative methods.</description>
+    </item>
+    
+    <item>
+      <title>Text analysis workshop before the Annual Meeting of the Australian Society for Quantitative Political Science</title>
+      <link>https://quanteda.org/news/workshop-at-asqps-2018/</link>
+      <pubDate>Fri, 21 Dec 2018 16:00:00 +0000</pubDate>
+      
+      <guid>https://quanteda.org/news/workshop-at-asqps-2018/</guid>
+      <description>Kenneth Benoit led an introductory workshop on quantitative text analysis using R and quanteda. The workshop took place on 9 December 2018 as a pre-sessional workshop in Canberra before the Annual Meeting of the Australian Society for Quantitative Political Science. The tutorial provided an overview of R&amp;rsquo;s capabilities for natural language processing and text analysis. The tutorial also provided an introduction to and survey of quanteda&amp;rsquo;s capabilities, and suggestions for future learning in this area.</description>
+    </item>
+    
+    <item>
       <title>Text analysis workshop at BIGSSS &amp; SOCIUM in Bremen</title>
-      <link>/news/workshop-at-bigsss-2018/</link>
+      <link>https://quanteda.org/news/workshop-at-bigsss-2018/</link>
       <pubDate>Wed, 19 Sep 2018 16:00:00 +0000</pubDate>
       
-      <guid>/news/workshop-at-bigsss-2018/</guid>
+      <guid>https://quanteda.org/news/workshop-at-bigsss-2018/</guid>
       <description>Kenneth Benoit and Stefan Müller will hold a two-day workshop on text-as-data approaches and the quanteda package on 22-23 November 2018 in Bremen. The event is organized by the Bremen International Graduate School of Social Sciences (BIGSSS) and SOCIUM.
 Kenneth Benoit will give a keynote speech on &amp;ldquo;Recent Advances in Quantitative Text Analysis&amp;rdquo;. Afterwards, Stefan Müller will conduct training sessions on topics such as importing textual data, tokenization, dictionary approaches, supervised and unsupervised learning, and topic modelling.</description>
     </item>
     
     <item>
       <title>Quanteda presentation at Tokyo R meeting</title>
-      <link>/news/tokyo-r-2018/</link>
+      <link>https://quanteda.org/news/tokyo-r-2018/</link>
       <pubDate>Fri, 15 Jun 2018 14:00:00 +0000</pubDate>
       
-      <guid>/news/tokyo-r-2018/</guid>
+      <guid>https://quanteda.org/news/tokyo-r-2018/</guid>
       <description>At a meeting of Tokyo R on 15 June 2018 at Yahoo Japan&amp;rsquo;s headquarters, Kohei Watanabe presented an overview of quantitative text analysis and how to implement it using the latest version of quanteda. The event was attended by more than 200 international delegates, including staff from R Studio. We thank the organizers for giving us such a great opportunity to publicize our activities and software.</description>
     </item>
     
     <item>
       <title>Text analysis workshop at WZB Berlin</title>
-      <link>/news/workshop-at-wzb-2018/</link>
+      <link>https://quanteda.org/news/workshop-at-wzb-2018/</link>
       <pubDate>Sun, 28 Jan 2018 16:00:00 +0000</pubDate>
       
-      <guid>/news/workshop-at-wzb-2018/</guid>
+      <guid>https://quanteda.org/news/workshop-at-wzb-2018/</guid>
       <description>Kohei Watanabe and Stefan Müller held a workshop on quanteda on 31 January 2018, the day before the Manifesto Corpus Conference 2018 held from 1-2 February 2018 at the WZB Berlin Social Science Center. This event featured the newly launched new tutorial website that contains a step-by-step introduction to quantitative text analysis using quanteda.</description>
     </item>
     
     <item>
       <title>Quanteda v1.0 launch at LondonR event</title>
-      <link>/news/london-r-2018/</link>
+      <link>https://quanteda.org/news/london-r-2018/</link>
       <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
       
-      <guid>/news/london-r-2018/</guid>
+      <guid>https://quanteda.org/news/london-r-2018/</guid>
       <description>At a meeting of London R meeting on 16 January 2018, we announced the release of quanteda v1.0. See the presentation here. We thank all the participants and organizers for the great opportunity and the excellent turnout.
 A video of the presentation is available on the YouTube channel of the Quanteda Initiative.</description>
     </item>
     
     <item>
       <title>Text analysis workshop at ESSSC</title>
-      <link>/news/workshop-at-esssc-2017/</link>
+      <link>https://quanteda.org/news/workshop-at-esssc-2017/</link>
       <pubDate>Wed, 18 Oct 2017 16:00:00 +0000</pubDate>
       
-      <guid>/news/workshop-at-esssc-2017/</guid>
+      <guid>https://quanteda.org/news/workshop-at-esssc-2017/</guid>
       <description>We will convene a half-day workshop at European Symposium Series on Societal Challenges in Computational Social Science on quantitative text analysis using quanteda.</description>
     </item>
     
