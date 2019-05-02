@@ -13,7 +13,7 @@ For a list of upcoming events, see the Events category in our [News](/news) sect
 
 To arrange training in the use of **quanteda** or in quantitative text analysis methodology more broadly, email us at [admin@quanteda.org](mailto:admin@quanteda.org).
 
-## Testimonials from previous workshops
+**Testimonials from previous workshops**
 
 - "Very useful, both for applying **quanteda** to actual research, and for getting more general knowledge of R."
 - "The workshop had a nice build up, ranging from basic to more advanced stuff. It is always good to get repetition of the basics."
