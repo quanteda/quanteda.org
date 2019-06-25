@@ -44,7 +44,7 @@ id = "people"
               <h4><strong>Akitaka Matsuo</strong></h4></a>
               <h5><i>Solutions Architect</i></h4>
               <p>
-                I am responsible for systems architecture, cloud computing, general problem solving, and multiple language integration such as the <a href="https://spacyr.quanteda.io">spacyr</a> package. I am also a Data Science Fellow at the London School of Economics.
+                I am also a Postdoc Fellow in Institute for Analytics and Data Science at University of Essex. I am responsible for systems architecture, cloud infrastructure, general problem solving, and multiple language integration such as the <a href="https://spacyr.quanteda.io">spacyr</a> package.
               </p>
             </div>
           </div>
