@@ -61,7 +61,7 @@ id = "people"
               <h4><strong>Gokhan Ciflikli</strong></h4></a>
               <h5><i>Application Developer</i></h4>
               <p>
-                I work on GUI application development using Shiny and maintain the organization's web pages. I am also a <a href="https://www.lse.ac.uk/Methodology/People/Researchers/Gokhan-Ciflikli">postdoctoral researcher</a> at the London School of Economics and a <a href="https://gokhan.io">computational social scientist</a>.
+                I am a Senior Data Scientist at <a href="https://www.askattest.com/">Attest</a> and I work on the GUI application development using Shiny. I also maintain a computational social science blog at <a href="https://gokhan.io">my website</a>.
               </p>
             </div>
           </div>
