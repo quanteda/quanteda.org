@@ -1,6 +1,6 @@
 +++
 title = "Workshop at the University of Münster"
-date = "2019-08-02T16:00:00+00:00"
+date = "2019-07-02T16:00:00+00:00"
 tags = ["workshop", "tutorial"]
 categories = ["event"]
 packages = ["quanteda"]
