@@ -7,7 +7,7 @@ Part of the **Quanteda Initiative** is to promote the use of the tools whose dev
 
 In our workshops we can cover topics such as importing texts and constructing a corpus, tokenization, creating a document-feature matrix, textual statistics (e.g. readability, lexical diversity, collocation analysis), dictionary-based analysis, sentiment analysis, supervised and unsupervised scaling, document classification, topic modelling, and part-of-speech tagging.
 
-Since the foundation of the **Quanteda Initiative** in 2018, we have organized one-day and two-day workshops in Australia (Canberra), Germany (Berlin; Bremen), Ireland (Dublin), Japan (Kobe), and Norway (Bergen).
+Since the foundation of the **Quanteda Initiative** in 2018, we have organized one-day and two-day workshops in Australia (Canberra), Germany (Berlin; Bremen; Münster), Ireland (Dublin), Japan (Kobe; Tokyo), Norway (Bergen), and Switzerland (Berne).
 
 For a list of past and upcoming events, see the Events category in our [News](/news) section.
 
@@ -17,6 +17,8 @@ To arrange training in the use of **quanteda** or in quantitative text analysis 
 
 - "Very useful, both for applying **quanteda** to actual research, and for getting more general knowledge of R."
 - "The workshop had a nice build up, ranging from basic to more advanced stuff. It is always good to get repetition of the basics."
+- "The instructor gave concrete examples, taught us how we could apply what we have learned to our research projects, and the tutorial was very easy to follow with step-by-step instructions."
 - "The workshop consisted of introductory and more in-depth R-learning, which helped when prior knowledge was limited. Easy to participate, and to ask any question."
 - "The instructor really took his time to answer our questions, and delved into the core of them, whether they were simple or more complex."
+- "Nice intro to quantitative text analysis, full attention to pre-analysis workflow, extremely competent lecturer."
 - "I feel like this workshop got me a great basis to start working with **quanteda** on my own research."
