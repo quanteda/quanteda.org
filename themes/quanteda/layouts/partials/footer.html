@@ -1,6 +1,11 @@
  <footer class="footer">
     <div class="container">
       <div class="row">
+          <div class="span2">
+          <div class="widget">
+            {{ partial "widgets/supporter.html" . }}  
+          </div>  
+        </div>
         <div class="span3">
           <div class="widget">
           {{ partial "widgets/address.html" . }}
@@ -11,7 +16,7 @@
           {{ partial "widgets/news.html" . }}
           </div>
         </div>
-        <div class="span3">
+        <div class="span2">
           <div class="widget">
             {{ partial "widgets/subscribe.html" . }}  
           </div>
