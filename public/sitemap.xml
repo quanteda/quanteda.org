@@ -3,208 +3,233 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://quanteda.org/news/seminar-at-university-of-auckland-2019/</loc>
+    <loc>/news/comptext-conference-cfp-2020/</loc>
+    <lastmod>2019-12-12T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/workshop-at-poltext-2019/</loc>
+    <lastmod>2019-09-13T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/workshop-at-snf-2019/</loc>
+    <lastmod>2019-08-02T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/workshop-at-university-of-muenster-2019/</loc>
+    <lastmod>2019-07-02T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/workshop-at-university-of-bergen-2019/</loc>
+    <lastmod>2019-05-02T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/seminar-at-university-of-auckland-2019/</loc>
     <lastmod>2019-01-21T16:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://quanteda.org/news/poltext-symposium-cfp-2019/</loc>
+    <loc>/news/poltext-symposium-cfp-2019/</loc>
     <lastmod>2019-01-08T16:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://quanteda.org/news/workshop-at-asqps-2018/</loc>
+    <loc>/news/workshop-at-asqps-2018/</loc>
     <lastmod>2018-12-21T16:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://quanteda.org/news/joss-paper/</loc>
+    <loc>/news/joss-paper/</loc>
     <lastmod>2018-10-08T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://quanteda.org/news/workshop-at-bigsss-2018/</loc>
+    <loc>/news/workshop-at-bigsss-2018/</loc>
     <lastmod>2018-09-19T16:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://quanteda.org/news/tokyo-r-2018/</loc>
+    <loc>/news/tokyo-r-2018/</loc>
     <lastmod>2018-06-15T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://quanteda.org/news/workshop-at-wzb-2018/</loc>
+    <loc>/news/workshop-at-wzb-2018/</loc>
     <lastmod>2018-01-28T16:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://quanteda.org/news/london-r-2018/</loc>
+    <loc>/news/london-r-2018/</loc>
     <lastmod>2018-01-17T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://quanteda.org/news/workshop-at-esssc-2017/</loc>
+    <loc>/news/workshop-at-esssc-2017/</loc>
     <lastmod>2017-10-18T16:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://quanteda.org/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>https://quanteda.org/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/categories/conference/</loc>
-    <lastmod>2019-01-08T16:00:00+00:00</lastmod>
+    <loc>/categories/conference/</loc>
+    <lastmod>2019-12-12T16:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/tags/conference/</loc>
-    <lastmod>2019-01-08T16:00:00+00:00</lastmod>
+    <loc>/tags/conference/</loc>
+    <lastmod>2019-12-12T16:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/categories/event/</loc>
-    <lastmod>2019-01-21T16:00:00+00:00</lastmod>
+    <loc>/categories/event/</loc>
+    <lastmod>2019-12-12T16:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/tags/launch/</loc>
+    <loc>/tags/launch/</loc>
     <lastmod>2018-01-17T14:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/tags/londonr/</loc>
+    <loc>/tags/londonr/</loc>
     <lastmod>2018-01-17T14:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/news/</loc>
-    <lastmod>2019-01-21T16:00:00+00:00</lastmod>
+    <loc>/news/</loc>
+    <lastmod>2019-12-12T16:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/packages/</loc>
+    <loc>/packages/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/tags/paper/</loc>
+    <loc>/tags/paper/</loc>
     <lastmod>2018-10-08T14:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/people/</loc>
+    <loc>/people/</loc>
   </url>
   
   <url>
-    <loc>https://quanteda.org/tags/poltext/</loc>
-    <lastmod>2019-01-08T16:00:00+00:00</lastmod>
+    <loc>/tags/poltext/</loc>
+    <lastmod>2019-12-12T16:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/tags/presentation/</loc>
+    <loc>/tags/presentation/</loc>
     <lastmod>2018-06-15T14:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/projects/</loc>
+    <loc>/projects/</loc>
   </url>
   
   <url>
-    <loc>https://quanteda.org/tags/publication/</loc>
+    <loc>/tags/publication/</loc>
     <lastmod>2018-10-08T14:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/categories/publications/</loc>
+    <loc>/categories/publications/</loc>
     <lastmod>2018-10-08T14:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/packages/quanteda/</loc>
+    <loc>/packages/quanteda/</loc>
+    <lastmod>2019-12-12T16:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-12-12T16:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/seminar/</loc>
     <lastmod>2019-01-21T16:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/</loc>
+    <loc>/services/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-12T16:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/talk/</loc>
     <lastmod>2019-01-21T16:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/tags/seminar/</loc>
-    <lastmod>2019-01-21T16:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://quanteda.org/services/</loc>
-  </url>
-  
-  <url>
-    <loc>https://quanteda.org/tags/</loc>
-    <lastmod>2019-01-08T16:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://quanteda.org/tags/talk/</loc>
-    <lastmod>2019-01-21T16:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://quanteda.org/tags/tokyor/</loc>
+    <loc>/tags/tokyor/</loc>
     <lastmod>2018-06-15T14:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/categories/training/</loc>
+    <loc>/categories/training/</loc>
     <lastmod>2017-10-18T16:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/tags/tutorial/</loc>
-    <lastmod>2018-12-21T16:00:00+00:00</lastmod>
+    <loc>/tags/tutorial/</loc>
+    <lastmod>2019-09-13T16:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/tags/workshop/</loc>
-    <lastmod>2019-01-08T16:00:00+00:00</lastmod>
+    <loc>/tags/workshop/</loc>
+    <lastmod>2019-12-12T16:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/tags/youtube/</loc>
+    <loc>/tags/youtube/</loc>
     <lastmod>2018-01-17T14:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanteda.org/quanteda/</loc>
+    <loc>/quanteda/</loc>
   </url>
   
   <url>
-    <loc>https://quanteda.org/readtext/</loc>
+    <loc>/readtext/</loc>
   </url>
   
 </urlset>

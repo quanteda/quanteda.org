@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Quanteda Initiative</title>
-    <link>https://quanteda.org/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Quanteda Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 08 Jan 2019 16:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2019 16:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://quanteda.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Conference</title>
-      <link>https://quanteda.org/tags/conference/</link>
-      <pubDate>Tue, 08 Jan 2019 16:00:00 +0000</pubDate>
+      <link>/tags/conference/</link>
+      <pubDate>Thu, 12 Dec 2019 16:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/tags/conference/</guid>
+      <guid>/tags/conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Launch</title>
-      <link>https://quanteda.org/tags/launch/</link>
+      <link>/tags/launch/</link>
       <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/tags/launch/</guid>
+      <guid>/tags/launch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Londonr</title>
-      <link>https://quanteda.org/tags/londonr/</link>
+      <link>/tags/londonr/</link>
       <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/tags/londonr/</guid>
+      <guid>/tags/londonr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paper</title>
-      <link>https://quanteda.org/tags/paper/</link>
+      <link>/tags/paper/</link>
       <pubDate>Mon, 08 Oct 2018 14:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/tags/paper/</guid>
+      <guid>/tags/paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poltext</title>
-      <link>https://quanteda.org/tags/poltext/</link>
-      <pubDate>Tue, 08 Jan 2019 16:00:00 +0000</pubDate>
+      <link>/tags/poltext/</link>
+      <pubDate>Thu, 12 Dec 2019 16:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/tags/poltext/</guid>
+      <guid>/tags/poltext/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presentation</title>
-      <link>https://quanteda.org/tags/presentation/</link>
+      <link>/tags/presentation/</link>
       <pubDate>Fri, 15 Jun 2018 14:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/tags/presentation/</guid>
+      <guid>/tags/presentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publication</title>
-      <link>https://quanteda.org/tags/publication/</link>
+      <link>/tags/publication/</link>
       <pubDate>Mon, 08 Oct 2018 14:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/tags/publication/</guid>
+      <guid>/tags/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar</title>
-      <link>https://quanteda.org/tags/seminar/</link>
+      <link>/tags/seminar/</link>
       <pubDate>Mon, 21 Jan 2019 16:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/tags/seminar/</guid>
+      <guid>/tags/seminar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk</title>
-      <link>https://quanteda.org/tags/talk/</link>
+      <link>/tags/talk/</link>
       <pubDate>Mon, 21 Jan 2019 16:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/tags/talk/</guid>
+      <guid>/tags/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tokyor</title>
-      <link>https://quanteda.org/tags/tokyor/</link>
+      <link>/tags/tokyor/</link>
       <pubDate>Fri, 15 Jun 2018 14:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/tags/tokyor/</guid>
+      <guid>/tags/tokyor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial</title>
-      <link>https://quanteda.org/tags/tutorial/</link>
-      <pubDate>Fri, 21 Dec 2018 16:00:00 +0000</pubDate>
+      <link>/tags/tutorial/</link>
+      <pubDate>Fri, 13 Sep 2019 16:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/tags/tutorial/</guid>
+      <guid>/tags/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Workshop</title>
-      <link>https://quanteda.org/tags/workshop/</link>
-      <pubDate>Tue, 08 Jan 2019 16:00:00 +0000</pubDate>
+      <link>/tags/workshop/</link>
+      <pubDate>Thu, 12 Dec 2019 16:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/tags/workshop/</guid>
+      <guid>/tags/workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Youtube</title>
-      <link>https://quanteda.org/tags/youtube/</link>
+      <link>/tags/youtube/</link>
       <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/tags/youtube/</guid>
+      <guid>/tags/youtube/</guid>
       <description></description>
     </item>
     
