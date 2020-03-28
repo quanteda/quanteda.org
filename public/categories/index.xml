@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Quanteda Initiative</title>
-    <link>/categories/</link>
+    <link>https://examplesite.com/categories/</link>
     <description>Recent content in Categories on Quanteda Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Dec 2019 16:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>conference</title>
-      <link>/categories/conference/</link>
+      <link>https://examplesite.com/categories/conference/</link>
       <pubDate>Thu, 12 Dec 2019 16:00:00 +0000</pubDate>
       
-      <guid>/categories/conference/</guid>
+      <guid>https://examplesite.com/categories/conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>event</title>
-      <link>/categories/event/</link>
+      <link>https://examplesite.com/categories/event/</link>
       <pubDate>Thu, 12 Dec 2019 16:00:00 +0000</pubDate>
       
-      <guid>/categories/event/</guid>
+      <guid>https://examplesite.com/categories/event/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>/categories/news/</link>
+      <link>https://examplesite.com/categories/news/</link>
       <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
       
-      <guid>/categories/news/</guid>
+      <guid>https://examplesite.com/categories/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SEO Learning</title>
-      <link>/categories/seo-learning/</link>
+      <link>https://examplesite.com/categories/seo-learning/</link>
       <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
       
-      <guid>/categories/seo-learning/</guid>
+      <guid>https://examplesite.com/categories/seo-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>publications</title>
-      <link>/categories/publications/</link>
+      <link>https://examplesite.com/categories/publications/</link>
       <pubDate>Mon, 08 Oct 2018 14:00:00 +0000</pubDate>
       
-      <guid>/categories/publications/</guid>
+      <guid>https://examplesite.com/categories/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>training</title>
-      <link>/categories/training/</link>
+      <link>https://examplesite.com/categories/training/</link>
       <pubDate>Wed, 18 Oct 2017 16:00:00 +0000</pubDate>
       
-      <guid>/categories/training/</guid>
+      <guid>https://examplesite.com/categories/training/</guid>
       <description></description>
     </item>
     

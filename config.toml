@@ -11,6 +11,7 @@ paginate = "5"
 summaryLength = "10"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
