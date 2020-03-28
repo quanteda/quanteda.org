@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quanteda Initiative</title>
     <link>/</link>
     <description>Recent content on Quanteda Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 12 Dec 2019 16:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -17,8 +17,16 @@
       <pubDate>Thu, 12 Dec 2019 16:00:00 +0000</pubDate>
       
       <guid>/news/comptext-conference-cfp-2020/</guid>
-      <description>COMPTEXT is an international and interdisciplinary symposium on the application of natural language processing techniques to social science research. COMPTEXT was known as POLTEXT until last year and its second conference was organized by Kohei Watanabe (Chief Technology Officer and a Director of the Quanteda Initiative) in Tokyo.
-COMPTEXT 2020 will take place at the University of Innsbruck (Austria) organized by Lisa Lechner. Kohei is also contributing to the organization of the conference through the university&amp;rsquo;s Digital Science Center.</description>
+      <description>COMPTEXT is an international and interdisciplinary symposium on the application of natural language processing techniques to social science research.</description>
+    </item>
+    
+    <item>
+      <title>My awesome blog post</title>
+      <link>/news/my-awesome-blog-post.1/</link>
+      <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
+      
+      <guid>/news/my-awesome-blog-post.1/</guid>
+      <description>Are you Developer and recently started your own business and Already made a website to ensure online presence and wants to reach more people.</description>
     </item>
     
     <item>
@@ -27,7 +35,7 @@ COMPTEXT 2020 will take place at the University of Innsbruck (Austria) organized
       <pubDate>Fri, 13 Sep 2019 16:00:00 +0000</pubDate>
       
       <guid>/news/workshop-at-poltext-2019/</guid>
-      <description>As part of the pre-conference events at POLTEXT 2019 at Waseda University in Toyko, Stefan Müller conducted a workshop on Quantitative Text Analysis for Absolute Beginners. More information on the course can be found here.</description>
+      <description>As part of the pre-conference events at POLTEXT 2019 at Waseda University in Toyko, Stefan Müller conducted a workshop on Quantitative Text Analysis for Absolute Beginners.</description>
     </item>
     
     <item>
@@ -36,7 +44,7 @@ COMPTEXT 2020 will take place at the University of Innsbruck (Austria) organized
       <pubDate>Fri, 02 Aug 2019 16:00:00 +0000</pubDate>
       
       <guid>/news/workshop-at-snf-2019/</guid>
-      <description>Stefan Müller led a two-day workshop on quantitative text analysis using R and quanteda at the Swiss National Science Foundation (SNSF) in Berne on 30-31 July 2019. Participants from the SNSF learned how to construct a corpus, import textual data, tokenize text, create a document-feature matrix, and train and evaluate supervised classifiers. These steps were not only applied to corpora from the quanteda package, but also to newspaper articles covering the Swiss National Science Foundation.</description>
+      <description>Stefan Müller led a two-day workshop on quantitative text analysis using R and quanteda at the Swiss National Science Foundation (SNSF) in Berne on 30-31 July 2019.</description>
     </item>
     
     <item>
@@ -45,7 +53,7 @@ COMPTEXT 2020 will take place at the University of Innsbruck (Austria) organized
       <pubDate>Tue, 02 Jul 2019 16:00:00 +0000</pubDate>
       
       <guid>/news/workshop-at-university-of-muenster-2019/</guid>
-      <description>Ken Benoit led a two-day workshop on quantitative text analysis using R and quanteda at the University of Münster on 27-28 June 2019. Participants from the Department of Political Science learned how to import texts, construct a corpus, tokenize text, create a document-feature matrix, and conduct supervised and unsupervised text classification.</description>
+      <description>Ken Benoit led a two-day workshop on quantitative text analysis using R and quanteda at the University of Münster on 27-28 June 2019.</description>
     </item>
     
     <item>
@@ -54,7 +62,7 @@ COMPTEXT 2020 will take place at the University of Innsbruck (Austria) organized
       <pubDate>Thu, 02 May 2019 16:00:00 +0000</pubDate>
       
       <guid>/news/workshop-at-university-of-bergen-2019/</guid>
-      <description>Stefan Müller led a two-day workshop on quantitative text analysis using R and quanteda at the University of Bergen on 25–26 April 2019. The workshop was open to scholars from all across the Faculty of Humanities. Researchers with backgrounds in political science, sociology, psychology, computer science, and linguistics participated in the event. Stefan covered topics such as constructing a corpus, importing textual data, tokenization, creating a document-feature matrix, applying and interpreting textual statistics, building supervised classifiers, as well as running and validating topic models.</description>
+      <description>Stefan Müller led a two-day workshop on quantitative text analysis using R and quanteda at the University of Bergen on 25–26 April 2019.</description>
     </item>
     
     <item>
@@ -63,7 +71,7 @@ COMPTEXT 2020 will take place at the University of Innsbruck (Austria) organized
       <pubDate>Mon, 21 Jan 2019 16:00:00 +0000</pubDate>
       
       <guid>/news/seminar-at-university-of-auckland-2019/</guid>
-      <description>On Thursday, 24 January 2019 at 3pm, Kenneth Benoit will give a talk at the Public Policy Institute of the University of Auckland about &amp;lsquo;The Ten Most Important Things I’ve Learned about Quantitative Text Analysis&amp;rsquo;. The presentation includes the epistemology of text analysis, some very practical issues about getting started, some illustrations of pitfalls to avoid, reasons both to embrace and to be wary of open source software, and career issues about developing community projects.</description>
+      <description>On Thursday, 24 January 2019 at 3pm, Kenneth Benoit will give a talk at the Public Policy Institute of the University of Auckland about &amp;lsquo;The Ten Most Important Things I’ve Learned about Quantitative Text Analysis&amp;rsquo;.</description>
     </item>
     
     <item>
@@ -72,8 +80,7 @@ COMPTEXT 2020 will take place at the University of Innsbruck (Austria) organized
       <pubDate>Tue, 08 Jan 2019 16:00:00 +0000</pubDate>
       
       <guid>/news/poltext-symposium-cfp-2019/</guid>
-      <description>POLTEXT is an international and interdisciplinary symposium on the application of natural language processing techniques in social science research. The third POLTEXT conference, organized by Kohei Watanabe (Chief Technology Officer and a Director of the Quanteda Initiative) Miklós Sebők, and Lisa Lechner takes place at Waseda University (Tokyo) on 14-15 September 2019.
-The symposium aims to facilitate the knowledge exchange between social scientists and computer scientists who address social, political or economic issues through the analysis of textual data by employing quantitative methods.</description>
+      <description>POLTEXT is an international and interdisciplinary symposium on the application of natural language processing techniques in social science research.</description>
     </item>
     
     <item>
@@ -82,7 +89,7 @@ The symposium aims to facilitate the knowledge exchange between social scientist
       <pubDate>Fri, 21 Dec 2018 16:00:00 +0000</pubDate>
       
       <guid>/news/workshop-at-asqps-2018/</guid>
-      <description>Kenneth Benoit led an introductory workshop on quantitative text analysis using R and quanteda. The workshop took place on 9 December 2018 as a pre-sessional workshop in Canberra before the Annual Meeting of the Australian Society for Quantitative Political Science. The tutorial provided an overview of R&amp;rsquo;s capabilities for natural language processing and text analysis. The tutorial also provided an introduction to and survey of quanteda&amp;rsquo;s capabilities, and suggestions for future learning in this area.</description>
+      <description>Kenneth Benoit led an introductory workshop on quantitative text analysis using R and quanteda.</description>
     </item>
     
     <item>
@@ -91,9 +98,7 @@ The symposium aims to facilitate the knowledge exchange between social scientist
       <pubDate>Mon, 08 Oct 2018 14:00:00 +0000</pubDate>
       
       <guid>/news/joss-paper/</guid>
-      <description>The Quanteda team has published a paper in the Journal of Open Source Software. The journal publishes peer-reviewed articles on research software packages, aiming to improve the quality of the software submitted.
-The paper summarizes the design and functions of Quanteda, focusing on corpus management, natural langauge processing, text scaling and text statistics, and visualization.
-If you use the Quanteda package in your own work, please cite this paper in the future.</description>
+      <description>The Quanteda team has published a paper in the Journal of Open Source Software.</description>
     </item>
     
     <item>
@@ -102,8 +107,7 @@ If you use the Quanteda package in your own work, please cite this paper in the 
       <pubDate>Wed, 19 Sep 2018 16:00:00 +0000</pubDate>
       
       <guid>/news/workshop-at-bigsss-2018/</guid>
-      <description>Kenneth Benoit and Stefan Müller will hold a two-day workshop on text-as-data approaches and the quanteda package on 22-23 November 2018 in Bremen. The event is organized by the Bremen International Graduate School of Social Sciences (BIGSSS) and SOCIUM.
-Kenneth Benoit will give a keynote speech on &amp;ldquo;Recent Advances in Quantitative Text Analysis&amp;rdquo;. Afterwards, Stefan Müller will conduct training sessions on topics such as importing textual data, tokenization, dictionary approaches, supervised and unsupervised learning, and topic modelling.</description>
+      <description>Kenneth Benoit and Stefan Müller will hold a two-day workshop on text-as-data approaches and the quanteda package on 22-23 November 2018 in Bremen.</description>
     </item>
     
     <item>
@@ -112,7 +116,7 @@ Kenneth Benoit will give a keynote speech on &amp;ldquo;Recent Advances in Quant
       <pubDate>Fri, 15 Jun 2018 14:00:00 +0000</pubDate>
       
       <guid>/news/tokyo-r-2018/</guid>
-      <description>At a meeting of Tokyo R on 15 June 2018 at Yahoo Japan&amp;rsquo;s headquarters, Kohei Watanabe presented an overview of quantitative text analysis and how to implement it using the latest version of quanteda. The event was attended by more than 200 international delegates, including staff from R Studio. We thank the organizers for giving us such a great opportunity to publicize our activities and software.</description>
+      <description>At a meeting of Tokyo R on 15 June 2018 at Yahoo Japan&amp;rsquo;s headquarters, Kohei Watanabe presented an overview of quantitative text analysis and how to implement it using the latest version of quanteda.</description>
     </item>
     
     <item>
@@ -121,7 +125,7 @@ Kenneth Benoit will give a keynote speech on &amp;ldquo;Recent Advances in Quant
       <pubDate>Sun, 28 Jan 2018 16:00:00 +0000</pubDate>
       
       <guid>/news/workshop-at-wzb-2018/</guid>
-      <description>Kohei Watanabe and Stefan Müller held a workshop on quanteda on 31 January 2018, the day before the Manifesto Corpus Conference 2018 held from 1-2 February 2018 at the WZB Berlin Social Science Center. This event featured the newly launched new tutorial website that contains a step-by-step introduction to quantitative text analysis using quanteda.</description>
+      <description>Kohei Watanabe and Stefan Müller held a workshop on quanteda on 31 January 2018, the day before the Manifesto Corpus Conference 2018 held from 1-2 February 2018 at the WZB Berlin Social Science Center.</description>
     </item>
     
     <item>
@@ -130,8 +134,7 @@ Kenneth Benoit will give a keynote speech on &amp;ldquo;Recent Advances in Quant
       <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
       
       <guid>/news/london-r-2018/</guid>
-      <description>At a meeting of London R meeting on 16 January 2018, we announced the release of quanteda v1.0. See the presentation here. We thank all the participants and organizers for the great opportunity and the excellent turnout.
-A video of the presentation is available on the YouTube channel of the Quanteda Initiative.</description>
+      <description>At a meeting of London R meeting on 16 January 2018, we announced the release of quanteda v1.</description>
     </item>
     
     <item>
@@ -149,7 +152,7 @@ A video of the presentation is available on the YouTube channel of the Quanteda 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Based in London, the Quanteda Initiative is a UK non-profit organization devoted to the promotion of open-source text analysis software. It supports active development of these tools, in addition to providing training materials, training events, and sponsoring workshops and conferences. Its main product is the open-source quanteda package for R, but the Quanteda Initiative also supports a family of independent but interrelated packages for providing additional functionality for natural language processing and document management.</description>
+      <description>Based in London, the Quanteda Initiative is a UK non-profit organization devoted to the promotion of open-source text analysis software.</description>
     </item>
     
     <item>
@@ -158,7 +161,7 @@ A video of the presentation is available on the YouTube channel of the Quanteda 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/people/</guid>
-      <description>Kenneth Benoit Managing Director and Founder  I&#39;m also a Professor in the Department of Methodology, London School of Economics and Political Science. I&#39;m a social scientist, software developer, and amateur photographer.     Kohei Watanabe Chief Technology Officer and Director  I am also an Assistant Professor at Waseda University (Tokyo). I design and write core functions of quanteda and oversee development of other packages for text analysis to make quantitative text analysis more accessible to people from different backgrounds.</description>
+      <description></description>
     </item>
     
     <item>
@@ -167,20 +170,7 @@ A video of the presentation is available on the YouTube channel of the Quanteda 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
-      <description>quanteda  quanteda is an R package providing comprehensive functionality for managing and analyzing textual data.
-    readtext  readtext is a one-function R package that reads and converts files containing text from a variety of input formats.
-    spacyr  spacyr is an R wrapper to the spaCy “industrial strength natural language processing” Python library.
-    stopwords  stopwords provids “one-stop shopping” for stopword lists in R, for multiple languages from many sources.</description>
-    </item>
-    
-    <item>
-      <title>Services</title>
-      <link>/services/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/services/</guid>
-      <description>Part of the Quanteda Initiative is to promote the use of the tools whose development it supports through training and dissemination activities. These include publicly accessible workshops, invitation-only conferences, and bespoke training events.
-In our workshops we can cover topics such as importing texts and constructing a corpus, tokenization, creating a document-feature matrix, textual statistics (e.g. readability, lexical diversity, collocation analysis), dictionary-based analysis, sentiment analysis, supervised and unsupervised scaling, document classification, topic modelling, and part-of-speech tagging.</description>
+      <description></description>
     </item>
     
     <item>
@@ -189,10 +179,7 @@ In our workshops we can cover topics such as importing texts and constructing a 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/quanteda/</guid>
-      <description> Documentation  Detailed online documentation and examples
-    Tutorials  Step-by-step tutorials for using quanteda
-    Publications  Research papers written using quanteda
-    </description>
+      <description></description>
     </item>
     
     <item>
@@ -201,8 +188,17 @@ In our workshops we can cover topics such as importing texts and constructing a 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/readtext/</guid>
-      <description> Heading 3 Some texts.
+      <description>Heading 3 Some texts.
 Heading 4 </description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/</guid>
+      <description>Part of the Quanteda Initiative is to promote the use of the tools whose development it supports through training and dissemination activities.</description>
     </item>
     
   </channel>
