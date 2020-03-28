@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Event on Quanteda Initiative</title>
+    <title>event on Quanteda Initiative</title>
     <link>/categories/event/</link>
-    <description>Recent content in Event on Quanteda Initiative</description>
+    <description>Recent content in event on Quanteda Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Thu, 12 Dec 2019 16:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/event/index.xml" rel="self" type="application/rss+xml" />
@@ -82,7 +83,7 @@ The symposium aims to facilitate the knowledge exchange between social scientist
       <pubDate>Fri, 21 Dec 2018 16:00:00 +0000</pubDate>
       
       <guid>/news/workshop-at-asqps-2018/</guid>
-      <description>Kenneth Benoit led an introductory workshop on quantitative text analysis using R and quanteda. The workshop took place on 9 December 2018 as a pre-sessional workshop in Canberra before the Annual Meeting of the Australian Society for Quantitative Political Science. The tutorial provided an overview of R&amp;rsquo;s capabilities for natural language processing and text analysis. The tutorial also provided an introduction to and survey of quanteda&amp;rsquo;s capabilities, and suggestions for future learning in this area.</description>
+      <description>Kenneth Benoit led an introductory workshop on quantitative text analysis using R and quanteda. The workshop took place on 9 December 2018 as a pre-sessional workshop in Canberra before the Annual Meeting of the Australian Society for Quantitative Political Science. The tutorial provided an overview of R&amp;rsquo;s capabilities for natural language processing and text analysis. The tutorial also provided an introduction to and survey of quanteda&amp;lsquo;s capabilities, and suggestions for future learning in this area.</description>
     </item>
     
     <item>
