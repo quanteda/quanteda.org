@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Quanteda Initiative</title>
-    <link>https://examplesite.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Quanteda Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-gb</language>
     <lastBuildDate>Thu, 12 Dec 2019 16:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>comptext</title>
-      <link>https://examplesite.com/tags/comptext/</link>
+      <link>/tags/comptext/</link>
       <pubDate>Thu, 12 Dec 2019 16:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/comptext/</guid>
+      <guid>/tags/comptext/</guid>
       <description></description>
     </item>
     
     <item>
       <title>conference</title>
-      <link>https://examplesite.com/tags/conference/</link>
+      <link>/tags/conference/</link>
       <pubDate>Thu, 12 Dec 2019 16:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/conference/</guid>
+      <guid>/tags/conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>poltext</title>
-      <link>https://examplesite.com/tags/poltext/</link>
+      <link>/tags/poltext/</link>
       <pubDate>Thu, 12 Dec 2019 16:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/poltext/</guid>
+      <guid>/tags/poltext/</guid>
       <description></description>
     </item>
     
     <item>
       <title>workshop</title>
-      <link>https://examplesite.com/tags/workshop/</link>
+      <link>/tags/workshop/</link>
       <pubDate>Thu, 12 Dec 2019 16:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/workshop/</guid>
+      <guid>/tags/workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial</title>
-      <link>https://examplesite.com/tags/tutorial/</link>
+      <link>/tags/tutorial/</link>
       <pubDate>Fri, 13 Sep 2019 16:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/tutorial/</guid>
+      <guid>/tags/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>seminar</title>
-      <link>https://examplesite.com/tags/seminar/</link>
+      <link>/tags/seminar/</link>
       <pubDate>Mon, 21 Jan 2019 16:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/seminar/</guid>
+      <guid>/tags/seminar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>talk</title>
-      <link>https://examplesite.com/tags/talk/</link>
+      <link>/tags/talk/</link>
       <pubDate>Mon, 21 Jan 2019 16:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/talk/</guid>
+      <guid>/tags/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>paper</title>
-      <link>https://examplesite.com/tags/paper/</link>
+      <link>/tags/paper/</link>
       <pubDate>Mon, 08 Oct 2018 14:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/paper/</guid>
+      <guid>/tags/paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>publication</title>
-      <link>https://examplesite.com/tags/publication/</link>
+      <link>/tags/publication/</link>
       <pubDate>Mon, 08 Oct 2018 14:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/publication/</guid>
+      <guid>/tags/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>presentation</title>
-      <link>https://examplesite.com/tags/presentation/</link>
+      <link>/tags/presentation/</link>
       <pubDate>Fri, 15 Jun 2018 14:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/presentation/</guid>
+      <guid>/tags/presentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TokyoR</title>
-      <link>https://examplesite.com/tags/tokyor/</link>
+      <link>/tags/tokyor/</link>
       <pubDate>Fri, 15 Jun 2018 14:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/tokyor/</guid>
+      <guid>/tags/tokyor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>launch</title>
-      <link>https://examplesite.com/tags/launch/</link>
+      <link>/tags/launch/</link>
       <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/launch/</guid>
+      <guid>/tags/launch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LondonR</title>
-      <link>https://examplesite.com/tags/londonr/</link>
+      <link>/tags/londonr/</link>
       <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/londonr/</guid>
+      <guid>/tags/londonr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>YouTube</title>
-      <link>https://examplesite.com/tags/youtube/</link>
+      <link>/tags/youtube/</link>
       <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/youtube/</guid>
+      <guid>/tags/youtube/</guid>
       <description></description>
     </item>
     

@@ -1,6 +1,6 @@
 ############################ Default configuration #########################
-baseURL = "https://examplesite.com/"
-languageCode = "en-us"
+baseURL = "https://quanteda.org"
+languageCode = "en-gb"
 # site title 
 title = "Quanteda Initiative"
 # theme
