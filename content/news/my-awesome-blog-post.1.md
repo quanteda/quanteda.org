@@ -21,3 +21,14 @@ Above Paragraph, you see SERP or Keywords that are common SEO Term so Before sta
 * Algorithm Refresh: Search engine operator after a regular interval re-run the existing algorithm to find out the new spammer.
 
 * New Algorithm: Improving search quality google and other search engines regularly bringing new algorithms. All new algorithm has its special purpose to serve in the total search engine working process.
+
+### Code fencing
+
+```r
+Tokens consisting of 1 document.
+text1 :
+ [1] "Are"       "you"       "Developer" "and"       "recently"  "started"   "your"      "own"       "business" 
+[10] "and"       "Already"   "made"     
+[ ... and 34 more ]
+```
+
