@@ -1,91 +1,44 @@
-#theme = "hugo-lithium"
-theme = "quanteda"
 baseURL = "https://quanteda.org"
-#baseURL = "http://127.0.0.1:7964"
-languageCode = "en-gb"
 title = "Quanteda Initiative"
-
-# Enable comments by entering your Disqus shortname
-disqusShortname = "quanteda"
-# Enable Google Analytics by entering your tracking code
+copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+paginate = 2
+languageCode = "en-gb"
+DefaultContentLanguage = "en-gb"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
 googleAnalytics = "UA-144616-23"
+DisqusShortname = ""
+theme = "quanteda"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-
-# Define the number of posts per page
-paginate = 10
-
-# a guide to our taxonomies ----
-# categories:
-# - Packages (software updates)
-# - Training (for training and educational events specifically)
-# - Events (workshops and conferences not aimed at training)
-# - Organisational (for company-related changes, e.g. personnel, funding partnerships, etc.)
-# - Misc (anything else - or should we omit this?)
-# tags: anything that might be useful in search
-# package: the name, if any, of the packages associated with the news
-[taxonomies]
-  category = "categories"   
-  tag = "tags"
-  package = "packages"
-
-[menu]
 
 # Main menu
 
 [[menu.main]]
+    identifier = "home"
     name = "Home"
     url  = "/"
     weight = 1
 
 [[menu.main]]
-    name = "About"
-    url  = "#"
     identifier = "about"
+    name = "About"
+    url  = "/about/"
     weight = 2
     
 [[menu.main]]
+    identifier = "people"
     name = "People"
     url  = "/people/"
-    parent = "about"
-    weight = 1
-    
+    weight = 3
+  
 [[menu.main]]
-    name = "About QI"
-    url  = "/about/"
-    parent = "about"
-    weight = 2   
-
-[[menu.main]]
+    identifier = "projects"
     name = "Projects"
     url  = "/projects/"
-    identifier = "projects"
     weight = 3
-    
-[[menu.main]]
-    name = "quanteda"
-    url  = "/quanteda/"
-    parent = "projects"
-    weight = 1
-    
-[[menu.main]]
-    name = "readtext"
-    url  = "https://readtext.quanteda.io/"
-    parent = "projects"
-    weight = 2
-    
-[[menu.main]]
-    name = "spacyr"
-    url  = "https://spacyr.quanteda.io/"
-    parent = "projects"
-    weight = 3
-    
-[[menu.main]]
-    name = "stopwords"
-    url  = "https://stopwords.quanteda.io/"
-    parent = "projects"
-    weight = 4
 
 [[menu.main]]
+    identifier = "services"
     name = "Services"
     url  = "/services/"
     weight = 4
@@ -100,4 +53,55 @@ paginate = 10
     url  = "https://blog.quanteda.org/"
     weight = 6
     
-    
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+author = "authors"
+
+[params]
+  author = "Hugo Authors"
+  description = "Non-profit organization for the development of quantitative text analysis"
+  homepageImage = "img/homepage-image.jpg"
+  share = true
+  showLanguageSwitcher = false
+
+  # Custom CSS and JS. Relative to /static/css and /static/js respectively.
+  customCSS = ["qi.css"]
+  customJS = []
+
+  [params.social]
+    rss = true
+    email = "example@example.com"
+    facebook = "https://facebook.com"
+    twitter = "https://twitter.com"
+    linkedin = "https://linkedin.com"
+    stack-overflow = "https://stackoverflow.com"
+    instagram = "https://stackoverflow.com"
+    github = "https://github.com"
+    weibo = "https://www.weibo.com"
+    medium = "https://medium.com"
+    pinterest = "https://pinterest.com"
+    reddit = "https://reddit.com"
+    gitlab = "https://gitlab.com"
+    mastodon = "https://mastodon.social"
+    keybase = "https://keybase.io/"
+
+  [params.prismJS]
+    enable = true
+    theme = ""
+
+  [params.commento]
+    enable = true
+    url = "https://commento.io"
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+
+[services]
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true

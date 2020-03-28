@@ -1,78 +1,25 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
+<main class="list container py-6">
+    {{- if or .Title .Content -}}
+    <div class="row py-3">
+        <div class="col">
+            {{ with .Title }}<h2 class="mb3">{{ . }}</h2>{{ end }}
 
-  <section id="subintro">
-    <div class="container">
-      <div class="row">
-        <div class="span4">
-          <h3>News</h3>
-        </div>
-        <div class="span8">
-          <ul class="breadcrumb notop">
-            <li><a href="#">Home</a><span class="divider">/</span></li>
-            <li class="active">News</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </section>
-  <section id="maincontent">
-    <div class="container">
-      <div class="row">
-        <div class="span4">
-          <aside>
-            {{ partial "sidebar.html" . }}
-          </aside>
-        </div>
-        <div class="span8">
-            {{ $paginator := .Paginate (where .Data.Pages "Type" "news") }}
-            {{ range $paginator.Pages }}
-            <article class="blog-post">
-              <div class="post-heading">
-                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-              </div>
-              <div class="row">
-              <div class="span3">
-                <div class="post-icon">
-                  <i class="icon-bg-dark icon-circled icon-file icon-2x active"></i>
-                </div>
-                <ul class="post-meta">
-                  <li class="first">
-                      <i class="icon-calendar"></i><span>{{ .Date.Format "2006/01/02" }}</span>
-                  </li>
-                  <li class="last">
-                    <i class="icon-tags"></i>
-                    <span>
-                      <!--<a href="#">Design</a>, <a href="#">Blog</a>, <a href="#">Tutorial</a>-->
-                      {{ range .Params.tags }}
-                      <a href="/tags/{{ . | urlize }}">{{ . | title }}</a>
-                      {{ end }}
-                    </span>
-                  </li>
-                </ul>
-                <div class="clear"></div>
-              </div>
-              <div class="span5">
-                <p>{{ .Summary }}</p>
-                <a href="{{ .RelPermalink }}" class="btn btn-color btn-rounded">Read more</a>
-              </div>
+            {{- with .Content -}}
+            <div class="content">
+                {{ . }}
             </div>
-            </article>
-            {{ end }}
-            
-          <div class="pagination">
-            <ul>
-                {{ range $paginator.Pagers }}
-                {{ if eq . $paginator }}
-                    <li class="active"><a href="#">{{ .PageNumber }}</a></li>
-                {{ else }}
-                    <li><a href="{{ .URL }}">{{ .PageNumber }}</a></li>
-                {{ end }}
-                {{ end }}
-            </ul>
-          </div>
+            {{- end -}}
         </div>
-      </div>
     </div>
-  </section>
+    {{- end -}}
 
-{{ partial "footer.html" . }}
+    <div class="row row-cols-1 row-cols-lg-3">
+        {{ range .Pages }}
+            <div class="col mb-3">
+                {{ .Render "card" }}
+            </div>
+        {{ end }}
+    </div>
+</main>
+{{ end }}

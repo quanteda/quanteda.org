@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Quanteda Initiative</title>
@@ -6,13 +6,14 @@
     <description>Recent content in Tags on Quanteda Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Thu, 12 Dec 2019 16:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Comptext</title>
+      <title>comptext</title>
       <link>/tags/comptext/</link>
       <pubDate>Thu, 12 Dec 2019 16:00:00 +0000</pubDate>
       
@@ -21,7 +22,7 @@
     </item>
     
     <item>
-      <title>Conference</title>
+      <title>conference</title>
       <link>/tags/conference/</link>
       <pubDate>Thu, 12 Dec 2019 16:00:00 +0000</pubDate>
       
@@ -30,34 +31,7 @@
     </item>
     
     <item>
-      <title>Launch</title>
-      <link>/tags/launch/</link>
-      <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
-      
-      <guid>/tags/launch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Londonr</title>
-      <link>/tags/londonr/</link>
-      <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
-      
-      <guid>/tags/londonr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paper</title>
-      <link>/tags/paper/</link>
-      <pubDate>Mon, 08 Oct 2018 14:00:00 +0000</pubDate>
-      
-      <guid>/tags/paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poltext</title>
+      <title>poltext</title>
       <link>/tags/poltext/</link>
       <pubDate>Thu, 12 Dec 2019 16:00:00 +0000</pubDate>
       
@@ -66,61 +40,7 @@
     </item>
     
     <item>
-      <title>Presentation</title>
-      <link>/tags/presentation/</link>
-      <pubDate>Fri, 15 Jun 2018 14:00:00 +0000</pubDate>
-      
-      <guid>/tags/presentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publication</title>
-      <link>/tags/publication/</link>
-      <pubDate>Mon, 08 Oct 2018 14:00:00 +0000</pubDate>
-      
-      <guid>/tags/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seminar</title>
-      <link>/tags/seminar/</link>
-      <pubDate>Mon, 21 Jan 2019 16:00:00 +0000</pubDate>
-      
-      <guid>/tags/seminar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Talk</title>
-      <link>/tags/talk/</link>
-      <pubDate>Mon, 21 Jan 2019 16:00:00 +0000</pubDate>
-      
-      <guid>/tags/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tokyor</title>
-      <link>/tags/tokyor/</link>
-      <pubDate>Fri, 15 Jun 2018 14:00:00 +0000</pubDate>
-      
-      <guid>/tags/tokyor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorial</title>
-      <link>/tags/tutorial/</link>
-      <pubDate>Fri, 13 Sep 2019 16:00:00 +0000</pubDate>
-      
-      <guid>/tags/tutorial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Workshop</title>
+      <title>workshop</title>
       <link>/tags/workshop/</link>
       <pubDate>Thu, 12 Dec 2019 16:00:00 +0000</pubDate>
       
@@ -129,7 +49,88 @@
     </item>
     
     <item>
-      <title>Youtube</title>
+      <title>tutorial</title>
+      <link>/tags/tutorial/</link>
+      <pubDate>Fri, 13 Sep 2019 16:00:00 +0000</pubDate>
+      
+      <guid>/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seminar</title>
+      <link>/tags/seminar/</link>
+      <pubDate>Mon, 21 Jan 2019 16:00:00 +0000</pubDate>
+      
+      <guid>/tags/seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>/tags/talk/</link>
+      <pubDate>Mon, 21 Jan 2019 16:00:00 +0000</pubDate>
+      
+      <guid>/tags/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paper</title>
+      <link>/tags/paper/</link>
+      <pubDate>Mon, 08 Oct 2018 14:00:00 +0000</pubDate>
+      
+      <guid>/tags/paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>publication</title>
+      <link>/tags/publication/</link>
+      <pubDate>Mon, 08 Oct 2018 14:00:00 +0000</pubDate>
+      
+      <guid>/tags/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>presentation</title>
+      <link>/tags/presentation/</link>
+      <pubDate>Fri, 15 Jun 2018 14:00:00 +0000</pubDate>
+      
+      <guid>/tags/presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TokyoR</title>
+      <link>/tags/tokyor/</link>
+      <pubDate>Fri, 15 Jun 2018 14:00:00 +0000</pubDate>
+      
+      <guid>/tags/tokyor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>launch</title>
+      <link>/tags/launch/</link>
+      <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
+      
+      <guid>/tags/launch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LondonR</title>
+      <link>/tags/londonr/</link>
+      <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
+      
+      <guid>/tags/londonr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YouTube</title>
       <link>/tags/youtube/</link>
       <pubDate>Wed, 17 Jan 2018 14:00:00 +0000</pubDate>
       

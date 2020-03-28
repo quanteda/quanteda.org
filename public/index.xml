@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quanteda Initiative</title>
@@ -6,6 +6,7 @@
     <description>Recent content on Quanteda Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Thu, 12 Dec 2019 16:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -82,7 +83,7 @@ The symposium aims to facilitate the knowledge exchange between social scientist
       <pubDate>Fri, 21 Dec 2018 16:00:00 +0000</pubDate>
       
       <guid>/news/workshop-at-asqps-2018/</guid>
-      <description>Kenneth Benoit led an introductory workshop on quantitative text analysis using R and quanteda. The workshop took place on 9 December 2018 as a pre-sessional workshop in Canberra before the Annual Meeting of the Australian Society for Quantitative Political Science. The tutorial provided an overview of R&amp;rsquo;s capabilities for natural language processing and text analysis. The tutorial also provided an introduction to and survey of quanteda&amp;rsquo;s capabilities, and suggestions for future learning in this area.</description>
+      <description>Kenneth Benoit led an introductory workshop on quantitative text analysis using R and quanteda. The workshop took place on 9 December 2018 as a pre-sessional workshop in Canberra before the Annual Meeting of the Australian Society for Quantitative Political Science. The tutorial provided an overview of R&amp;rsquo;s capabilities for natural language processing and text analysis. The tutorial also provided an introduction to and survey of quanteda&amp;lsquo;s capabilities, and suggestions for future learning in this area.</description>
     </item>
     
     <item>
@@ -158,19 +159,26 @@ A video of the presentation is available on the YouTube channel of the Quanteda 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/people/</guid>
-      <description>Kenneth Benoit Managing Director and Founder  I&#39;m also a Professor in the Department of Methodology, London School of Economics and Political Science. I&#39;m a social scientist, software developer, and amateur photographer.     Kohei Watanabe Chief Technology Officer and Director  I am also an Assistant Professor at Waseda University (Tokyo). I design and write core functions of quanteda and oversee development of other packages for text analysis to make quantitative text analysis more accessible to people from different backgrounds.</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/projects/</link>
+      <title>quanteda</title>
+      <link>/quanteda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/</guid>
-      <description>quanteda  quanteda is an R package providing comprehensive functionality for managing and analyzing textual data.
-    readtext  readtext is a one-function R package that reads and converts files containing text from a variety of input formats.
-    spacyr  spacyr is an R wrapper to the spaCy “industrial strength natural language processing” Python library.
-    stopwords  stopwords provids “one-stop shopping” for stopword lists in R, for multiple languages from many sources.</description>
+      <guid>/quanteda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>readtext</title>
+      <link>/readtext/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/readtext/</guid>
+      <description>Heading 3 Some texts.
+Heading 4 </description>
     </item>
     
     <item>
@@ -181,28 +189,6 @@ A video of the presentation is available on the YouTube channel of the Quanteda 
       <guid>/services/</guid>
       <description>Part of the Quanteda Initiative is to promote the use of the tools whose development it supports through training and dissemination activities. These include publicly accessible workshops, invitation-only conferences, and bespoke training events.
 In our workshops we can cover topics such as importing texts and constructing a corpus, tokenization, creating a document-feature matrix, textual statistics (e.g. readability, lexical diversity, collocation analysis), dictionary-based analysis, sentiment analysis, supervised and unsupervised scaling, document classification, topic modelling, and part-of-speech tagging.</description>
-    </item>
-    
-    <item>
-      <title>quanteda</title>
-      <link>/quanteda/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/quanteda/</guid>
-      <description> Documentation  Detailed online documentation and examples
-    Tutorials  Step-by-step tutorials for using quanteda
-    Publications  Research papers written using quanteda
-    </description>
-    </item>
-    
-    <item>
-      <title>readtext</title>
-      <link>/readtext/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/readtext/</guid>
-      <description> Heading 3 Some texts.
-Heading 4 </description>
     </item>
     
   </channel>
