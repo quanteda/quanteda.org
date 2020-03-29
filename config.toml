@@ -117,8 +117,8 @@ enable = true
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Non-profit organization for the development of quantitative text analysis"
-image = "img/homepage-image.jpg"
+title = "Non-profit organization for development of quantitative text analysis"
+image = "img/wordcloud.png"
 
 
 ######################## call to action ###############################
