@@ -26,8 +26,6 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
-[[params.plugins.css]]
-link = "css/quanteda.css"
 
 # js plugins
 [[params.plugins.js]]
@@ -92,6 +90,7 @@ weight = 2
 home = "Home"
 # logo
 logo = "img/qi-logo-initial.png"
+logo_footer = "img/qi-logo-footer.png"
 # meta data
 author = "Themefisher"
 description = "This is meta description"

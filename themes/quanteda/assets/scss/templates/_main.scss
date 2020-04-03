@@ -1,27 +1,29 @@
-/* body */
-/* body {
-  background-image: url(../images/backgrounds/pattern.png);
-} */
+/* brand */
+
+header {
+  img {
+      width: 50px;
+  }
+}
+
+footer {
+  img {
+      width: 220px;
+  }
+}
 
 /* banner */
 .banner {
-  padding: 220px 0 120px;
+  padding: 150px 0 0;
   position: relative;
-  @include desktop-lg {
-    padding: 150px 0 100px;
+  h1 {
+    padding-left: 20px;
   }
-  @include desktop {
-    padding: 100px 0 0;
-  }
-
   .illustration {
     position: absolute;
-    bottom: 0;
-    right: 30px;
+    top: -180px;
+    right: -30px;
     max-width: 700px;
-    @include desktop {
-      display: none;
-    }
   }
 }
 
