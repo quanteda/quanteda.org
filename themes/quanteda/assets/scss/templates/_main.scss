@@ -84,6 +84,7 @@ footer {
 .content {
   * {
     margin-bottom: 20px;
+    text-align: justify;
   }
 
   h1,
@@ -96,15 +97,24 @@ footer {
   }
 
   ol {
-    padding-left: 20px;
+    padding-left: 0;
+    li {
+      position: relative;
+      list-style-position: outisde;
+      margin: 0 0 5px 20px;
+      font-size: 18px;
+      line-height: 1.7;
+    }
   }
 
   ul {
     padding-left: 0;
-
     li {
       position: relative;
-      margin-bottom: 15px;
+      list-style-position: outisde;
+      margin: 0 0 5px 20px;
+      font-size: 18px;
+      line-height: 1.7;
     }
   }
 

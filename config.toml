@@ -73,15 +73,10 @@ link = "plugins/search/search.js"
     weight = 7
     
 # footer menu
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 1
-
-[[menu.footer]]
-URL = "tools"
-name = "tools"
-weight = 2
+# [[menu.footer]]
+# URL = "contact"
+# name = "Contact"
+# weight = 1
 
 
 ######################### Default Parameters ###########################

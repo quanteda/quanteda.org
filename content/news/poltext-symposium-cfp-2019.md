@@ -4,6 +4,7 @@ date = "2019-01-08T16:00:00+00:00"
 tags = ["workshop", "conference", "poltext"]
 categories = ["event", "conference"]
 packages = ["quanteda"]
+type = "post"
 +++
 
 [POLTEXT](https://www.poltextconference.org) is an international and interdisciplinary symposium on the application of natural language processing techniques in social science research. The third POLTEXT conference, organized by Kohei Watanabe (Chief Technology Officer and a Director of the **Quanteda Initiative**) Miklós Sebők, and Lisa Lechner takes place at Waseda University (Tokyo) on 14-15 September 2019.
