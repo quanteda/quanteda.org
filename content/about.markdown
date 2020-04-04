@@ -19,11 +19,15 @@ Its core objectives, as stated in its charter, are to:
 
 The Quanteda Initiative CIC was registered the United Kingdom as a Community Interest Company. 
 
-- Company number: [11135166](https://beta.companieshouse.gov.uk/company/11135166)
-- Registered address: 27 Old Gloucester Street, London WC1N 3AX, United Kingdom
+Company number | Registered address
+--- | ---
+[11135166](https://beta.companieshouse.gov.uk/company/11135166) | 27 Old Gloucester Street, London WC1N 3AX, United Kingdom
+
 
 #### Acknowledgements
 
-The first five years of the <strong>quanteda</strong> project's development was funded by the European Research Council grant ERC-2011-StG 283794-QUANTESS (PI Kenneth Benoit).  Additional funding for user application development is being provided by ERC-2018-PoC-QUANTEDA-812960 (PI Kenneth Benoit).
+The first five years of the <strong>quanteda</strong> project's development was funded by the European Research Council grant ERC-2011-StG 283794-QUANTESS (PI Kenneth Benoit).  
+
+Additional funding for user application development is being provided by ERC-2018-PoC-QUANTEDA-812960 (PI Kenneth Benoit).
 
 Additional funding for user-facing applications and community support has been provided by the London School of Economics and Political Science and its Department of Methodology.
