@@ -4,6 +4,8 @@ date = "2019-12-12T16:00:00+00:00"
 tags = ["workshop", "conference", "poltext", "comptext"]
 categories = ["event", "conference"]
 packages = ["quanteda"]
+type = "post"
+
 +++
 
 [COMPTEXT](http://www.comptextconference.org/) is an international and interdisciplinary symposium on the application of natural language processing techniques to social science research. COMPTEXT was known as POLTEXT until last year and its second conference was organized by Kohei Watanabe (Chief Technology Officer and a Director of the [**Quanteda Initiative**](https://quanteda.org)) in Tokyo. 

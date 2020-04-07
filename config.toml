@@ -1,103 +1,139 @@
-#theme = "hugo-lithium"
-theme = "quanteda"
-baseURL = "https://quanteda.org"
-#baseURL = "http://127.0.0.1:7964"
+############################ Default configuration #########################
+baseURL = "/"
 languageCode = "en-gb"
+# site title 
 title = "Quanteda Initiative"
-
-# Enable comments by entering your Disqus shortname
-disqusShortname = "quanteda"
-# Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-144616-23"
+# theme
+theme = "quanteda"
+# post pagination
+paginate = "5"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-# Define the number of posts per page
-paginate = 10
+PygmentsCodeFences = true
+PygmentsStyle = "tango"
 
-# a guide to our taxonomies ----
-# categories:
-# - Packages (software updates)
-# - Training (for training and educational events specifically)
-# - Events (workshops and conferences not aimed at training)
-# - Organisational (for company-related changes, e.g. personnel, funding partnerships, etc.)
-# - Misc (anything else - or should we omit this?)
-# tags: anything that might be useful in search
-# package: the name, if any, of the packages associated with the news
-[taxonomies]
-  category = "categories"   
-  tag = "tags"
-  package = "packages"
+[outputs]
+home = ["HTML", "AMP", "RSS", "JSON"]
 
-[menu]
+########################## Plugings ######################################
 
-# Main menu
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
 
-[[menu.main]]
-    name = "Home"
-    url  = "/"
-    weight = 1
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+
+########################### Navigation ###################################
 
 [[menu.main]]
     name = "About"
-    url  = "#"
-    identifier = "about"
+    URL  = "/about/"
     weight = 2
     
 [[menu.main]]
     name = "People"
-    url  = "/people/"
-    parent = "about"
-    weight = 1
-    
-[[menu.main]]
-    name = "About QI"
-    url  = "/about/"
-    parent = "about"
-    weight = 2   
+    URL  = "/people/"
+    weight = 3
 
 [[menu.main]]
     name = "Projects"
-    url  = "/projects/"
-    identifier = "projects"
-    weight = 3
-    
-[[menu.main]]
-    name = "quanteda"
-    url  = "/quanteda/"
-    parent = "projects"
-    weight = 1
-    
-[[menu.main]]
-    name = "readtext"
-    url  = "https://readtext.quanteda.io/"
-    parent = "projects"
-    weight = 2
-    
-[[menu.main]]
-    name = "spacyr"
-    url  = "https://spacyr.quanteda.io/"
-    parent = "projects"
-    weight = 3
-    
-[[menu.main]]
-    name = "stopwords"
-    url  = "https://stopwords.quanteda.io/"
-    parent = "projects"
+    URL  = "/projects/"
     weight = 4
 
 [[menu.main]]
     name = "Services"
     url  = "/services/"
-    weight = 4
+    weight = 5
     
 [[menu.main]]
     name = "News"
     url  = "/news/"
-    weight = 5
+    weight = 6
     
 [[menu.main]]
     name = "Blog"
     url  = "https://blog.quanteda.org/"
-    weight = 6
+    weight = 7
     
-    
+# footer menu
+# [[menu.footer]]
+# URL = "contact"
+# name = "Contact"
+# weight = 1
+
+
+######################### Default Parameters ###########################
+[params]
+# home
+home = "Home"
+# logo
+logo = "img/qi-logo-initial.png"
+logo_footer = "img/qi-logo-footer.png"
+# meta data
+author = "Themefisher"
+description = "This is meta description"
+# google tag manager
+google_tag_manager = "" # your id
+# google analitycs ID
+google_analitycs_id = "" # your id
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+# copyright
+copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
+
+# search
+[params.search]
+enable = true
+
+
+####################### banner #######################################
+[params.banner]
+title = "Promoting open-source solutions to quantitative text analysis"
+image = "img/wordcloud.png"
+
+
+######################## call to action ###############################
+[params.cta]
+enable = false
+image = "images/hugo-muscot.svg"
+title = "Get the best hugo templates"
+description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+[params.cta.button]
+enable = true
+label = "Visit Here"
+link = "https://gethugothemes.com/shop/"
+
+
+############################## Social Site ##########################
+[[params.social]]
+icon = "ti-youtube" # themify icon pack https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UC0xc75IqmteIlp-i2vjKWFg"
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+link = "https://twitter.com/quantedainit"
+[[params.social]]
+icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+link = "https://github.com/quanteda"
+

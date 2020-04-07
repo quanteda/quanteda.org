@@ -4,6 +4,7 @@ date = "2018-10-08T14:00:00+00:00"
 tags = ["paper", "publication"]
 categories = ["publications"]
 packages = ["quanteda"]
+type = "post"
 +++
 
 The Quanteda team has published a [paper](https://doi.org/10.21105/joss.00774) in the [_Journal of Open Source Software_](http://joss.theoj.org). The journal publishes peer-reviewed articles on research software packages, aiming to improve the quality of the software submitted. 

@@ -4,6 +4,7 @@ date = "2018-09-19T16:00:00+00:00"
 tags = ["workshop", "tutorial"]
 categories = ["event"]
 packages = ["quanteda"]
+type = "post"
 +++
 
 Kenneth Benoit and Stefan Müller will hold a two-day workshop on text-as-data approaches and the **quanteda** package on 22-23 November 2018 in Bremen. The event is organized by the [Bremen International Graduate School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de) and [SOCIUM](http://www.socium.uni-bremen.de/home/en/). 

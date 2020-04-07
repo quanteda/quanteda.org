@@ -3,50 +3,22 @@ title = "Projects"
 id = "projects"
 +++
 
-<div class="row">
-  <div class="span3">
-    <div class="well">
-      <a href="http://docs.quanteda.io/">
-      <div class="centered e_bounce">
-        <i class="icon-bg-light icon-circled fa fa-code icon-3x active"></i>
-        <h4>quanteda</h4>
-        </a>
-        <p><strong>quanteda</strong> is an R package providing comprehensive functionality for managing and analyzing textual data.</p>
-      </div>
-    </div>
-  </div>
-    <div class="span3">
-    <div class="well">
-    <a href="https://readtext.quanteda.io/">
-      <div class="centered e_bounce">
-        <i class="icon-bg-light icon-circled fa fa-book icon-3x active"></i>
-        <h4>readtext</h4>
-        </a>
-        <p><strong>readtext</strong> is a one-function R package that reads and converts files containing text from a variety of input formats.</p>
-      </div>
-    </div>
-  </div>
-  <div class="span3">
-    <div class="well">
-    <a href="https://spacyr.quanteda.io/">
-      <div class="centered e_bounce">
-        <i class="icon-bg-light icon-circled fa fa-arrows-alt-h icon-3x active"></i>
-        <h4>spacyr</h4>
-        </a>
-        <p><strong>spacyr</strong> is an R wrapper to the spaCy “industrial strength natural language processing” Python library.</p>
-      </div>
-    </div>
-  </div>
-  <div class="span3">
-    <div class="well">
-    <a href="https://stopwords.quanteda.io/">
-      <div class="centered e_bounce">
-        <i class="icon-bg-light icon-circled fa fa-hand-paper icon-3x active"></i>
-        <h4>stopwords</h4>
-        </a>
-        <p><strong>stopwords</strong> provids “one-stop shopping” for stopword lists in R, for multiple languages from many sources.</p>
-      </div>
-    </div>
-  </div>
-</div>
+### quanteda
 
+**quanteda** is an R package providing comprehensive functionality for managing and analyzing textual data.
+
+- [Documentation](http://docs.quanteda.io/): detailed online documentation and examples.
+- [Tutorials](http://tutorials.quanteda.io/): step-by-step tutorials for using **quanteda**.
+- [Publications](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4124149528480169545,5426967797859565261,10275772072778885251,5689866426931637102&as_sdt=5): research papers written using **quanteda**. 
+
+### readtext
+
+[**readtext**](https://readtext.quanteda.io/) is a one-function R package that reads and converts files containing text from a variety of input formats.
+
+### spacyr
+
+[spacyr](https://spacyr.quanteda.io/) is an R wrapper to the spaCy “industrial strength natural language processing” Python library.
+
+### stopwords
+
+[stopwords](https://spacyr.quanteda.io/) provids “one-stop shopping” for stopword lists in R, for multiple languages from many sources.
