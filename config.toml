@@ -110,7 +110,7 @@ enable = true
 
 ####################### banner #######################################
 [params.banner]
-title = "Non-profit organization for development of quantitative text analysis"
+title = "Promoting open-source solutions to quantitative text analysis"
 image = "img/wordcloud.png"
 
 
@@ -127,6 +127,9 @@ link = "https://gethugothemes.com/shop/"
 
 
 ############################## Social Site ##########################
+[[params.social]]
+icon = "ti-youtube" # themify icon pack https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UC0xc75IqmteIlp-i2vjKWFg"
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
 link = "https://twitter.com/quantedainit"

@@ -14,16 +14,17 @@ footer {
 
 /* banner */
 .banner {
-  padding: 150px 0 0;
+  padding: 200px 0 0;
   position: relative;
   h1 {
     padding-left: 20px;
   }
   .illustration {
     position: absolute;
-    top: -180px;
+    top: -240px;
     right: -30px;
     max-width: 700px;
+    z-index: -9999;
   }
 }
 
