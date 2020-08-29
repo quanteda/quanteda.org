@@ -1,48 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Quanteda Initiative</title>
-    <link>https://quanteda.org/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Quanteda Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Fri, 13 Sep 2019 16:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://quanteda.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Conference</title>
-      <link>https://quanteda.org/categories/conference/</link>
+      <title>event</title>
+      <link>/categories/event/</link>
+      <pubDate>Fri, 13 Sep 2019 16:00:00 +0000</pubDate>
+      
+      <guid>/categories/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conference</title>
+      <link>/categories/conference/</link>
       <pubDate>Tue, 08 Jan 2019 16:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/categories/conference/</guid>
+      <guid>/categories/conference/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Event</title>
-      <link>https://quanteda.org/categories/event/</link>
-      <pubDate>Mon, 21 Jan 2019 16:00:00 +0000</pubDate>
-      
-      <guid>https://quanteda.org/categories/event/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://quanteda.org/categories/publications/</link>
+      <title>publications</title>
+      <link>/categories/publications/</link>
       <pubDate>Mon, 08 Oct 2018 14:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/categories/publications/</guid>
+      <guid>/categories/publications/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Training</title>
-      <link>https://quanteda.org/categories/training/</link>
+      <title>training</title>
+      <link>/categories/training/</link>
       <pubDate>Wed, 18 Oct 2017 16:00:00 +0000</pubDate>
       
-      <guid>https://quanteda.org/categories/training/</guid>
+      <guid>/categories/training/</guid>
       <description></description>
     </item>
     
